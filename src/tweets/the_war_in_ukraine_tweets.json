@@ -1,0 +1,7130 @@
+[
+  {
+    "id": "65567458",
+    "followersCount": 12222,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:27.000Z",
+      "formatted": "19/06/2022, 19:12:27",
+      "ms": 1655665947000
+    },
+    "startingTime": 0
+  },
+  {
+    "id": "2460232575",
+    "followersCount": 550,
+    "likes": 0,
+    "retweets": 1,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:28.000Z",
+      "formatted": "19/06/2022, 19:12:28",
+      "ms": 1655665948000
+    },
+    "startingTime": 1000
+  },
+  {
+    "id": "2604535584",
+    "followersCount": 338,
+    "likes": 0,
+    "retweets": 333,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:30.000Z",
+      "formatted": "19/06/2022, 19:12:30",
+      "ms": 1655665950000
+    },
+    "startingTime": 3000
+  },
+  {
+    "id": "1498337445959585800",
+    "followersCount": 784,
+    "likes": 0,
+    "retweets": 8,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:31.000Z",
+      "formatted": "19/06/2022, 19:12:31",
+      "ms": 1655665951000
+    },
+    "startingTime": 4000
+  },
+  {
+    "id": "1512160549357899784",
+    "followersCount": 0,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:37.000Z",
+      "formatted": "19/06/2022, 19:12:37",
+      "ms": 1655665957000
+    },
+    "startingTime": 10000
+  },
+  {
+    "id": "163233014",
+    "followersCount": 46,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:38.000Z",
+      "formatted": "19/06/2022, 19:12:38",
+      "ms": 1655665958000
+    },
+    "startingTime": 11000
+  },
+  {
+    "id": "2657722758",
+    "followersCount": 82,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:38.000Z",
+      "formatted": "19/06/2022, 19:12:38",
+      "ms": 1655665958000
+    },
+    "startingTime": 11500
+  },
+  {
+    "id": "308730093",
+    "followersCount": 73,
+    "likes": 0,
+    "retweets": 95,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:39.000Z",
+      "formatted": "19/06/2022, 19:12:39",
+      "ms": 1655665959000
+    },
+    "startingTime": 12000
+  },
+  {
+    "id": "1421247884",
+    "followersCount": 163,
+    "likes": 0,
+    "retweets": 181,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:47.000Z",
+      "formatted": "19/06/2022, 19:12:47",
+      "ms": 1655665967000
+    },
+    "startingTime": 20000
+  },
+  {
+    "id": "360443229",
+    "followersCount": 45,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:50.000Z",
+      "formatted": "19/06/2022, 19:12:50",
+      "ms": 1655665970000
+    },
+    "startingTime": 23000
+  },
+  {
+    "id": "1444350683373883394",
+    "followersCount": 814,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:51.000Z",
+      "formatted": "19/06/2022, 19:12:51",
+      "ms": 1655665971000
+    },
+    "startingTime": 24000
+  },
+  {
+    "id": "1268342920534319106",
+    "followersCount": 6,
+    "likes": 0,
+    "retweets": 288,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:54.000Z",
+      "formatted": "19/06/2022, 19:12:54",
+      "ms": 1655665974000
+    },
+    "startingTime": 27000
+  },
+  {
+    "id": "324079105",
+    "followersCount": 200,
+    "likes": 0,
+    "retweets": 263,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:00.000Z",
+      "formatted": "19/06/2022, 19:13:00",
+      "ms": 1655665980000
+    },
+    "startingTime": 33000
+  },
+  {
+    "id": "54695115",
+    "followersCount": 779,
+    "likes": 0,
+    "retweets": 264,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:07.000Z",
+      "formatted": "19/06/2022, 19:13:07",
+      "ms": 1655665987000
+    },
+    "startingTime": 40000
+  },
+  {
+    "id": "852007106",
+    "followersCount": 1221,
+    "likes": 0,
+    "retweets": 95,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:07.000Z",
+      "formatted": "19/06/2022, 19:13:07",
+      "ms": 1655665987000
+    },
+    "startingTime": 40500
+  },
+  {
+    "id": "19500405",
+    "followersCount": 78854,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:08.000Z",
+      "formatted": "19/06/2022, 19:13:08",
+      "ms": 1655665988000
+    },
+    "startingTime": 41000
+  },
+  {
+    "id": "384424061",
+    "followersCount": 128,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:08.000Z",
+      "formatted": "19/06/2022, 19:13:08",
+      "ms": 1655665988000
+    },
+    "startingTime": 41333.333333333336
+  },
+  {
+    "id": "723608486593073155",
+    "followersCount": 5338,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:08.000Z",
+      "formatted": "19/06/2022, 19:13:08",
+      "ms": 1655665988000
+    },
+    "startingTime": 41666.666666666664
+  },
+  {
+    "id": "1004415894330728448",
+    "followersCount": 141,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:11.000Z",
+      "formatted": "19/06/2022, 19:13:11",
+      "ms": 1655665991000
+    },
+    "startingTime": 44000
+  },
+  {
+    "id": "79943315",
+    "followersCount": 377,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:11.000Z",
+      "formatted": "19/06/2022, 19:13:11",
+      "ms": 1655665991000
+    },
+    "startingTime": 44500
+  },
+  {
+    "id": "1266145259718955010",
+    "followersCount": 278,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:14.000Z",
+      "formatted": "19/06/2022, 19:13:14",
+      "ms": 1655665994000
+    },
+    "startingTime": 47000
+  },
+  {
+    "id": "372494314",
+    "followersCount": 1847,
+    "likes": 0,
+    "retweets": 559,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:21.000Z",
+      "formatted": "19/06/2022, 19:13:21",
+      "ms": 1655666001000
+    },
+    "startingTime": 54000
+  },
+  {
+    "id": "1856740418",
+    "followersCount": 51,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:26.000Z",
+      "formatted": "19/06/2022, 19:13:26",
+      "ms": 1655666006000
+    },
+    "startingTime": 59000
+  },
+  {
+    "id": "1222088337114136576",
+    "followersCount": 57,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:28.000Z",
+      "formatted": "19/06/2022, 19:13:28",
+      "ms": 1655666008000
+    },
+    "startingTime": 61000
+  },
+  {
+    "id": "888066840034803714",
+    "followersCount": 125,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:28.000Z",
+      "formatted": "19/06/2022, 19:13:28",
+      "ms": 1655666008000
+    },
+    "startingTime": 61500
+  },
+  {
+    "id": "317780760",
+    "followersCount": 229,
+    "likes": 0,
+    "retweets": 559,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:33.000Z",
+      "formatted": "19/06/2022, 19:13:33",
+      "ms": 1655666013000
+    },
+    "startingTime": 66000
+  },
+  {
+    "id": "250075408",
+    "followersCount": 97,
+    "likes": 0,
+    "retweets": 181,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:36.000Z",
+      "formatted": "19/06/2022, 19:13:36",
+      "ms": 1655666016000
+    },
+    "startingTime": 69000
+  },
+  {
+    "id": "375376626",
+    "followersCount": 151,
+    "likes": 0,
+    "retweets": 624,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:36.000Z",
+      "formatted": "19/06/2022, 19:13:36",
+      "ms": 1655666016000
+    },
+    "startingTime": 69500
+  },
+  {
+    "id": "141283057",
+    "followersCount": 14463,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:43.000Z",
+      "formatted": "19/06/2022, 19:13:43",
+      "ms": 1655666023000
+    },
+    "startingTime": 76000
+  },
+  {
+    "id": "95808833",
+    "followersCount": 299,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:43.000Z",
+      "formatted": "19/06/2022, 19:13:43",
+      "ms": 1655666023000
+    },
+    "startingTime": 76500
+  },
+  {
+    "id": "1266921827236012032",
+    "followersCount": 223,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:52.000Z",
+      "formatted": "19/06/2022, 19:13:52",
+      "ms": 1655666032000
+    },
+    "startingTime": 85000
+  },
+  {
+    "id": "1185165431935524864",
+    "followersCount": 21,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:53.000Z",
+      "formatted": "19/06/2022, 19:13:53",
+      "ms": 1655666033000
+    },
+    "startingTime": 86000
+  },
+  {
+    "id": "19489239",
+    "followersCount": 564230,
+    "likes": 2,
+    "retweets": 1,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:56.000Z",
+      "formatted": "19/06/2022, 19:13:56",
+      "ms": 1655666036000
+    },
+    "startingTime": 89000
+  },
+  {
+    "id": "1538148371457884160",
+    "followersCount": 4,
+    "likes": 0,
+    "retweets": 10,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:57.000Z",
+      "formatted": "19/06/2022, 19:13:57",
+      "ms": 1655666037000
+    },
+    "startingTime": 90000
+  },
+  {
+    "id": "1519419051075899394",
+    "followersCount": 289,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:59.000Z",
+      "formatted": "19/06/2022, 19:13:59",
+      "ms": 1655666039000
+    },
+    "startingTime": 92000
+  },
+  {
+    "id": "1307548939550294017",
+    "followersCount": 2908,
+    "likes": 0,
+    "retweets": 56,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:02.000Z",
+      "formatted": "19/06/2022, 19:14:02",
+      "ms": 1655666042000
+    },
+    "startingTime": 95000
+  },
+  {
+    "id": "3230771313",
+    "followersCount": 457,
+    "likes": 0,
+    "retweets": 14,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:04.000Z",
+      "formatted": "19/06/2022, 19:14:04",
+      "ms": 1655666044000
+    },
+    "startingTime": 97000
+  },
+  {
+    "id": "1311415537528983552",
+    "followersCount": 87,
+    "likes": 0,
+    "retweets": 26,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:07.000Z",
+      "formatted": "19/06/2022, 19:14:07",
+      "ms": 1655666047000
+    },
+    "startingTime": 100000
+  },
+  {
+    "id": "1327422868884426753",
+    "followersCount": 1060,
+    "likes": 0,
+    "retweets": 603,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:09.000Z",
+      "formatted": "19/06/2022, 19:14:09",
+      "ms": 1655666049000
+    },
+    "startingTime": 102000
+  },
+  {
+    "id": "899257349935955968",
+    "followersCount": 2588,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:10.000Z",
+      "formatted": "19/06/2022, 19:14:10",
+      "ms": 1655666050000
+    },
+    "startingTime": 103000
+  },
+  {
+    "id": "1501522587049934854",
+    "followersCount": 3,
+    "likes": 0,
+    "retweets": 126,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:13.000Z",
+      "formatted": "19/06/2022, 19:14:13",
+      "ms": 1655666053000
+    },
+    "startingTime": 106000
+  },
+  {
+    "id": "765229409813032960",
+    "followersCount": 5,
+    "likes": 0,
+    "retweets": 63,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:14.000Z",
+      "formatted": "19/06/2022, 19:14:14",
+      "ms": 1655666054000
+    },
+    "startingTime": 107000
+  },
+  {
+    "id": "1336351645958086656",
+    "followersCount": 654,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:23.000Z",
+      "formatted": "19/06/2022, 19:14:23",
+      "ms": 1655666063000
+    },
+    "startingTime": 116000
+  },
+  {
+    "id": "2329770158",
+    "followersCount": 1494,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:25.000Z",
+      "formatted": "19/06/2022, 19:14:25",
+      "ms": 1655666065000
+    },
+    "startingTime": 118000
+  },
+  {
+    "id": "825582259889590272",
+    "followersCount": 26,
+    "likes": 0,
+    "retweets": 38,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:25.000Z",
+      "formatted": "19/06/2022, 19:14:25",
+      "ms": 1655666065000
+    },
+    "startingTime": 118500
+  },
+  {
+    "id": "2294193683",
+    "followersCount": 895,
+    "likes": 0,
+    "retweets": 21,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:34.000Z",
+      "formatted": "19/06/2022, 19:14:34",
+      "ms": 1655666074000
+    },
+    "startingTime": 127000
+  },
+  {
+    "id": "296698466",
+    "followersCount": 36,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:37.000Z",
+      "formatted": "19/06/2022, 19:14:37",
+      "ms": 1655666077000
+    },
+    "startingTime": 130000
+  },
+  {
+    "id": "4843629263",
+    "followersCount": 6364,
+    "likes": 0,
+    "retweets": 849,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:39.000Z",
+      "formatted": "19/06/2022, 19:14:39",
+      "ms": 1655666079000
+    },
+    "startingTime": 132000
+  },
+  {
+    "id": "939577925975855105",
+    "followersCount": 1514,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:40.000Z",
+      "formatted": "19/06/2022, 19:14:40",
+      "ms": 1655666080000
+    },
+    "startingTime": 133000
+  },
+  {
+    "id": "1338111704874573826",
+    "followersCount": 647,
+    "likes": 0,
+    "retweets": 180,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:40.000Z",
+      "formatted": "19/06/2022, 19:14:40",
+      "ms": 1655666080000
+    },
+    "startingTime": 133500
+  },
+  {
+    "id": "1144688899639402496",
+    "followersCount": 220,
+    "likes": 0,
+    "retweets": 50,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:44.000Z",
+      "formatted": "19/06/2022, 19:14:44",
+      "ms": 1655666084000
+    },
+    "startingTime": 137000
+  },
+  {
+    "id": "897401189611995137",
+    "followersCount": 5,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:48.000Z",
+      "formatted": "19/06/2022, 19:14:48",
+      "ms": 1655666088000
+    },
+    "startingTime": 141000
+  },
+  {
+    "id": "82340330",
+    "followersCount": 3060,
+    "likes": 0,
+    "retweets": 849,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:48.000Z",
+      "formatted": "19/06/2022, 19:14:48",
+      "ms": 1655666088000
+    },
+    "startingTime": 141500
+  },
+  {
+    "id": "196360336",
+    "followersCount": 507,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:49.000Z",
+      "formatted": "19/06/2022, 19:14:49",
+      "ms": 1655666089000
+    },
+    "startingTime": 142000
+  },
+  {
+    "id": "1365629306",
+    "followersCount": 190,
+    "likes": 0,
+    "retweets": 39,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:54.000Z",
+      "formatted": "19/06/2022, 19:14:54",
+      "ms": 1655666094000
+    },
+    "startingTime": 147000
+  },
+  {
+    "id": "1496865008814366726",
+    "followersCount": 37,
+    "likes": 0,
+    "retweets": 297,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:59.000Z",
+      "formatted": "19/06/2022, 19:14:59",
+      "ms": 1655666099000
+    },
+    "startingTime": 152000
+  },
+  {
+    "id": "1117545887155146753",
+    "followersCount": 314,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:06.000Z",
+      "formatted": "19/06/2022, 19:15:06",
+      "ms": 1655666106000
+    },
+    "startingTime": 159000
+  },
+  {
+    "id": "1428177924553859072",
+    "followersCount": 546,
+    "likes": 0,
+    "retweets": 4,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:06.000Z",
+      "formatted": "19/06/2022, 19:15:06",
+      "ms": 1655666106000
+    },
+    "startingTime": 159333.33333333334
+  },
+  {
+    "id": "182765446",
+    "followersCount": 453,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:06.000Z",
+      "formatted": "19/06/2022, 19:15:06",
+      "ms": 1655666106000
+    },
+    "startingTime": 159666.66666666666
+  },
+  {
+    "id": "598973191",
+    "followersCount": 9334,
+    "likes": 0,
+    "retweets": 6,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:09.000Z",
+      "formatted": "19/06/2022, 19:15:09",
+      "ms": 1655666109000
+    },
+    "startingTime": 162000
+  },
+  {
+    "id": "1212738891326746625",
+    "followersCount": 11,
+    "likes": 0,
+    "retweets": 7,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:18.000Z",
+      "formatted": "19/06/2022, 19:15:18",
+      "ms": 1655666118000
+    },
+    "startingTime": 171000
+  },
+  {
+    "id": "1492151258555244545",
+    "followersCount": 752,
+    "likes": 0,
+    "retweets": 5,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:20.000Z",
+      "formatted": "19/06/2022, 19:15:20",
+      "ms": 1655666120000
+    },
+    "startingTime": 173000
+  },
+  {
+    "id": "1499771048610385923",
+    "followersCount": 5,
+    "likes": 0,
+    "retweets": 33,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:20.000Z",
+      "formatted": "19/06/2022, 19:15:20",
+      "ms": 1655666120000
+    },
+    "startingTime": 173500
+  },
+  {
+    "id": "780802080642433025",
+    "followersCount": 99,
+    "likes": 0,
+    "retweets": 73,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:25.000Z",
+      "formatted": "19/06/2022, 19:15:25",
+      "ms": 1655666125000
+    },
+    "startingTime": 178000
+  },
+  {
+    "id": "1225793633342935043",
+    "followersCount": 9220,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:26.000Z",
+      "formatted": "19/06/2022, 19:15:26",
+      "ms": 1655666126000
+    },
+    "startingTime": 179000
+  },
+  {
+    "id": "502068387",
+    "followersCount": 259,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:27.000Z",
+      "formatted": "19/06/2022, 19:15:27",
+      "ms": 1655666127000
+    },
+    "startingTime": 180000
+  },
+  {
+    "id": "1445805349202706437",
+    "followersCount": 3228,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:31.000Z",
+      "formatted": "19/06/2022, 19:15:31",
+      "ms": 1655666131000
+    },
+    "startingTime": 184000
+  },
+  {
+    "id": "883421593",
+    "followersCount": 6948,
+    "likes": 0,
+    "retweets": 54,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:39.000Z",
+      "formatted": "19/06/2022, 19:15:39",
+      "ms": 1655666139000
+    },
+    "startingTime": 192000
+  },
+  {
+    "id": "48486244",
+    "followersCount": 32296,
+    "likes": 0,
+    "retweets": 95,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:40.000Z",
+      "formatted": "19/06/2022, 19:15:40",
+      "ms": 1655666140000
+    },
+    "startingTime": 193000
+  },
+  {
+    "id": "1366719778380013569",
+    "followersCount": 128,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:43.000Z",
+      "formatted": "19/06/2022, 19:15:43",
+      "ms": 1655666143000
+    },
+    "startingTime": 196000
+  },
+  {
+    "id": "173730909",
+    "followersCount": 28,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:45.000Z",
+      "formatted": "19/06/2022, 19:15:45",
+      "ms": 1655666145000
+    },
+    "startingTime": 198000
+  },
+  {
+    "id": "1439015184341905410",
+    "followersCount": 28,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:50.000Z",
+      "formatted": "19/06/2022, 19:15:50",
+      "ms": 1655666150000
+    },
+    "startingTime": 203000
+  },
+  {
+    "id": "414208540",
+    "followersCount": 455,
+    "likes": 0,
+    "retweets": 181,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:50.000Z",
+      "formatted": "19/06/2022, 19:15:50",
+      "ms": 1655666150000
+    },
+    "startingTime": 203500
+  },
+  {
+    "id": "1529969782434455566",
+    "followersCount": 13,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:54.000Z",
+      "formatted": "19/06/2022, 19:15:54",
+      "ms": 1655666154000
+    },
+    "startingTime": 207000
+  },
+  {
+    "id": "2496203046",
+    "followersCount": 23,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:54.000Z",
+      "formatted": "19/06/2022, 19:15:54",
+      "ms": 1655666154000
+    },
+    "startingTime": 207500
+  },
+  {
+    "id": "1474621128882724867",
+    "followersCount": 2773,
+    "likes": 0,
+    "retweets": 19,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:56.000Z",
+      "formatted": "19/06/2022, 19:15:56",
+      "ms": 1655666156000
+    },
+    "startingTime": 209000
+  },
+  {
+    "id": "1263898793012916224",
+    "followersCount": 1738,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:02.000Z",
+      "formatted": "19/06/2022, 19:16:02",
+      "ms": 1655666162000
+    },
+    "startingTime": 215000
+  },
+  {
+    "id": "37229237",
+    "followersCount": 715,
+    "likes": 0,
+    "retweets": 288,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:05.000Z",
+      "formatted": "19/06/2022, 19:16:05",
+      "ms": 1655666165000
+    },
+    "startingTime": 218000
+  },
+  {
+    "id": "1390467125479940097",
+    "followersCount": 1,
+    "likes": 0,
+    "retweets": 32,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:10.000Z",
+      "formatted": "19/06/2022, 19:16:10",
+      "ms": 1655666170000
+    },
+    "startingTime": 223000
+  },
+  {
+    "id": "1518719403394691073",
+    "followersCount": 94,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:12.000Z",
+      "formatted": "19/06/2022, 19:16:12",
+      "ms": 1655666172000
+    },
+    "startingTime": 225000
+  },
+  {
+    "id": "1493826106654437377",
+    "followersCount": 24,
+    "likes": 0,
+    "retweets": 78,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:15.000Z",
+      "formatted": "19/06/2022, 19:16:15",
+      "ms": 1655666175000
+    },
+    "startingTime": 228000
+  },
+  {
+    "id": "1731665011",
+    "followersCount": 2733,
+    "likes": 0,
+    "retweets": 6,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:20.000Z",
+      "formatted": "19/06/2022, 19:16:20",
+      "ms": 1655666180000
+    },
+    "startingTime": 233000
+  },
+  {
+    "id": "912428236273016833",
+    "followersCount": 309,
+    "likes": 0,
+    "retweets": 1008,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:20.000Z",
+      "formatted": "19/06/2022, 19:16:20",
+      "ms": 1655666180000
+    },
+    "startingTime": 233500
+  },
+  {
+    "id": "1460377075882373121",
+    "followersCount": 38354,
+    "likes": 1,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:24.000Z",
+      "formatted": "19/06/2022, 19:16:24",
+      "ms": 1655666184000
+    },
+    "startingTime": 237000
+  },
+  {
+    "id": "92580074",
+    "followersCount": 83,
+    "likes": 0,
+    "retweets": 24,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:24.000Z",
+      "formatted": "19/06/2022, 19:16:24",
+      "ms": 1655666184000
+    },
+    "startingTime": 237500
+  },
+  {
+    "id": "595222060",
+    "followersCount": 16,
+    "likes": 0,
+    "retweets": 24,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:27.000Z",
+      "formatted": "19/06/2022, 19:16:27",
+      "ms": 1655666187000
+    },
+    "startingTime": 240000
+  },
+  {
+    "id": "1045124724005597184",
+    "followersCount": 330,
+    "likes": 0,
+    "retweets": 6,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:32.000Z",
+      "formatted": "19/06/2022, 19:16:32",
+      "ms": 1655666192000
+    },
+    "startingTime": 245000
+  },
+  {
+    "id": "2505382854",
+    "followersCount": 208,
+    "likes": 0,
+    "retweets": 10,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:32.000Z",
+      "formatted": "19/06/2022, 19:16:32",
+      "ms": 1655666192000
+    },
+    "startingTime": 245500
+  },
+  {
+    "id": "49610232",
+    "followersCount": 178,
+    "likes": 0,
+    "retweets": 603,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:34.000Z",
+      "formatted": "19/06/2022, 19:16:34",
+      "ms": 1655666194000
+    },
+    "startingTime": 247000
+  },
+  {
+    "id": "87946564",
+    "followersCount": 984,
+    "likes": 0,
+    "retweets": 849,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:35.000Z",
+      "formatted": "19/06/2022, 19:16:35",
+      "ms": 1655666195000
+    },
+    "startingTime": 248000
+  },
+  {
+    "id": "754913164827959300",
+    "followersCount": 5400,
+    "likes": 0,
+    "retweets": 15,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:35.000Z",
+      "formatted": "19/06/2022, 19:16:35",
+      "ms": 1655666195000
+    },
+    "startingTime": 248333.33333333334
+  },
+  {
+    "id": "1017472428371533826",
+    "followersCount": 19,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:35.000Z",
+      "formatted": "19/06/2022, 19:16:35",
+      "ms": 1655666195000
+    },
+    "startingTime": 248666.66666666666
+  },
+  {
+    "id": "940932764907573255",
+    "followersCount": 223,
+    "likes": 0,
+    "retweets": 33,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:38.000Z",
+      "formatted": "19/06/2022, 19:16:38",
+      "ms": 1655666198000
+    },
+    "startingTime": 251000
+  },
+  {
+    "id": "1726096375",
+    "followersCount": 1903,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:44.000Z",
+      "formatted": "19/06/2022, 19:16:44",
+      "ms": 1655666204000
+    },
+    "startingTime": 257000
+  },
+  {
+    "id": "1202276791",
+    "followersCount": 939,
+    "likes": 0,
+    "retweets": 898,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:44.000Z",
+      "formatted": "19/06/2022, 19:16:44",
+      "ms": 1655666204000
+    },
+    "startingTime": 257500
+  },
+  {
+    "id": "830675603435163648",
+    "followersCount": 190,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:48.000Z",
+      "formatted": "19/06/2022, 19:16:48",
+      "ms": 1655666208000
+    },
+    "startingTime": 261000
+  },
+  {
+    "id": "192547775",
+    "followersCount": 275668,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:51.000Z",
+      "formatted": "19/06/2022, 19:16:51",
+      "ms": 1655666211000
+    },
+    "startingTime": 264000
+  },
+  {
+    "id": "1276776108466241538",
+    "followersCount": 48,
+    "likes": 0,
+    "retweets": 35,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:51.000Z",
+      "formatted": "19/06/2022, 19:16:51",
+      "ms": 1655666211000
+    },
+    "startingTime": 264500
+  },
+  {
+    "id": "1353405114497699841",
+    "followersCount": 260,
+    "likes": 0,
+    "retweets": 422,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:52.000Z",
+      "formatted": "19/06/2022, 19:16:52",
+      "ms": 1655666212000
+    },
+    "startingTime": 265000
+  },
+  {
+    "id": "65567458",
+    "followersCount": 12222,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:27.000Z",
+      "formatted": "19/06/2022, 19:12:27",
+      "ms": 1655665947000
+    },
+    "startingTime": 265000
+  },
+  {
+    "id": "2460232575",
+    "followersCount": 550,
+    "likes": 0,
+    "retweets": 1,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:28.000Z",
+      "formatted": "19/06/2022, 19:12:28",
+      "ms": 1655665948000
+    },
+    "startingTime": 266000
+  },
+  {
+    "id": "2604535584",
+    "followersCount": 338,
+    "likes": 0,
+    "retweets": 333,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:30.000Z",
+      "formatted": "19/06/2022, 19:12:30",
+      "ms": 1655665950000
+    },
+    "startingTime": 268000
+  },
+  {
+    "id": "1498337445959585800",
+    "followersCount": 784,
+    "likes": 0,
+    "retweets": 8,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:31.000Z",
+      "formatted": "19/06/2022, 19:12:31",
+      "ms": 1655665951000
+    },
+    "startingTime": 269000
+  },
+  {
+    "id": "1512160549357899784",
+    "followersCount": 0,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:37.000Z",
+      "formatted": "19/06/2022, 19:12:37",
+      "ms": 1655665957000
+    },
+    "startingTime": 275000
+  },
+  {
+    "id": "163233014",
+    "followersCount": 46,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:38.000Z",
+      "formatted": "19/06/2022, 19:12:38",
+      "ms": 1655665958000
+    },
+    "startingTime": 276000
+  },
+  {
+    "id": "2657722758",
+    "followersCount": 82,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:38.000Z",
+      "formatted": "19/06/2022, 19:12:38",
+      "ms": 1655665958000
+    },
+    "startingTime": 276500
+  },
+  {
+    "id": "308730093",
+    "followersCount": 73,
+    "likes": 0,
+    "retweets": 95,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:39.000Z",
+      "formatted": "19/06/2022, 19:12:39",
+      "ms": 1655665959000
+    },
+    "startingTime": 277000
+  },
+  {
+    "id": "1421247884",
+    "followersCount": 163,
+    "likes": 0,
+    "retweets": 181,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:47.000Z",
+      "formatted": "19/06/2022, 19:12:47",
+      "ms": 1655665967000
+    },
+    "startingTime": 285000
+  },
+  {
+    "id": "360443229",
+    "followersCount": 45,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:50.000Z",
+      "formatted": "19/06/2022, 19:12:50",
+      "ms": 1655665970000
+    },
+    "startingTime": 288000
+  },
+  {
+    "id": "1444350683373883394",
+    "followersCount": 814,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:51.000Z",
+      "formatted": "19/06/2022, 19:12:51",
+      "ms": 1655665971000
+    },
+    "startingTime": 289000
+  },
+  {
+    "id": "1268342920534319106",
+    "followersCount": 6,
+    "likes": 0,
+    "retweets": 288,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:54.000Z",
+      "formatted": "19/06/2022, 19:12:54",
+      "ms": 1655665974000
+    },
+    "startingTime": 292000
+  },
+  {
+    "id": "324079105",
+    "followersCount": 200,
+    "likes": 0,
+    "retweets": 263,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:00.000Z",
+      "formatted": "19/06/2022, 19:13:00",
+      "ms": 1655665980000
+    },
+    "startingTime": 298000
+  },
+  {
+    "id": "54695115",
+    "followersCount": 779,
+    "likes": 0,
+    "retweets": 264,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:07.000Z",
+      "formatted": "19/06/2022, 19:13:07",
+      "ms": 1655665987000
+    },
+    "startingTime": 305000
+  },
+  {
+    "id": "852007106",
+    "followersCount": 1221,
+    "likes": 0,
+    "retweets": 95,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:07.000Z",
+      "formatted": "19/06/2022, 19:13:07",
+      "ms": 1655665987000
+    },
+    "startingTime": 305500
+  },
+  {
+    "id": "19500405",
+    "followersCount": 78854,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:08.000Z",
+      "formatted": "19/06/2022, 19:13:08",
+      "ms": 1655665988000
+    },
+    "startingTime": 306000
+  },
+  {
+    "id": "384424061",
+    "followersCount": 128,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:08.000Z",
+      "formatted": "19/06/2022, 19:13:08",
+      "ms": 1655665988000
+    },
+    "startingTime": 306333.3333333333
+  },
+  {
+    "id": "723608486593073155",
+    "followersCount": 5338,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:08.000Z",
+      "formatted": "19/06/2022, 19:13:08",
+      "ms": 1655665988000
+    },
+    "startingTime": 306666.6666666667
+  },
+  {
+    "id": "1004415894330728448",
+    "followersCount": 141,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:11.000Z",
+      "formatted": "19/06/2022, 19:13:11",
+      "ms": 1655665991000
+    },
+    "startingTime": 309000
+  },
+  {
+    "id": "79943315",
+    "followersCount": 377,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:11.000Z",
+      "formatted": "19/06/2022, 19:13:11",
+      "ms": 1655665991000
+    },
+    "startingTime": 309500
+  },
+  {
+    "id": "1266145259718955010",
+    "followersCount": 278,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:14.000Z",
+      "formatted": "19/06/2022, 19:13:14",
+      "ms": 1655665994000
+    },
+    "startingTime": 312000
+  },
+  {
+    "id": "372494314",
+    "followersCount": 1847,
+    "likes": 0,
+    "retweets": 559,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:21.000Z",
+      "formatted": "19/06/2022, 19:13:21",
+      "ms": 1655666001000
+    },
+    "startingTime": 319000
+  },
+  {
+    "id": "1856740418",
+    "followersCount": 51,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:26.000Z",
+      "formatted": "19/06/2022, 19:13:26",
+      "ms": 1655666006000
+    },
+    "startingTime": 324000
+  },
+  {
+    "id": "1222088337114136576",
+    "followersCount": 57,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:28.000Z",
+      "formatted": "19/06/2022, 19:13:28",
+      "ms": 1655666008000
+    },
+    "startingTime": 326000
+  },
+  {
+    "id": "888066840034803714",
+    "followersCount": 125,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:28.000Z",
+      "formatted": "19/06/2022, 19:13:28",
+      "ms": 1655666008000
+    },
+    "startingTime": 326500
+  },
+  {
+    "id": "317780760",
+    "followersCount": 229,
+    "likes": 0,
+    "retweets": 559,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:33.000Z",
+      "formatted": "19/06/2022, 19:13:33",
+      "ms": 1655666013000
+    },
+    "startingTime": 331000
+  },
+  {
+    "id": "250075408",
+    "followersCount": 97,
+    "likes": 0,
+    "retweets": 181,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:36.000Z",
+      "formatted": "19/06/2022, 19:13:36",
+      "ms": 1655666016000
+    },
+    "startingTime": 334000
+  },
+  {
+    "id": "375376626",
+    "followersCount": 151,
+    "likes": 0,
+    "retweets": 624,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:36.000Z",
+      "formatted": "19/06/2022, 19:13:36",
+      "ms": 1655666016000
+    },
+    "startingTime": 334500
+  },
+  {
+    "id": "141283057",
+    "followersCount": 14463,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:43.000Z",
+      "formatted": "19/06/2022, 19:13:43",
+      "ms": 1655666023000
+    },
+    "startingTime": 341000
+  },
+  {
+    "id": "95808833",
+    "followersCount": 299,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:43.000Z",
+      "formatted": "19/06/2022, 19:13:43",
+      "ms": 1655666023000
+    },
+    "startingTime": 341500
+  },
+  {
+    "id": "1266921827236012032",
+    "followersCount": 223,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:52.000Z",
+      "formatted": "19/06/2022, 19:13:52",
+      "ms": 1655666032000
+    },
+    "startingTime": 350000
+  },
+  {
+    "id": "1185165431935524864",
+    "followersCount": 21,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:53.000Z",
+      "formatted": "19/06/2022, 19:13:53",
+      "ms": 1655666033000
+    },
+    "startingTime": 351000
+  },
+  {
+    "id": "19489239",
+    "followersCount": 564230,
+    "likes": 2,
+    "retweets": 1,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:56.000Z",
+      "formatted": "19/06/2022, 19:13:56",
+      "ms": 1655666036000
+    },
+    "startingTime": 354000
+  },
+  {
+    "id": "1538148371457884160",
+    "followersCount": 4,
+    "likes": 0,
+    "retweets": 10,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:57.000Z",
+      "formatted": "19/06/2022, 19:13:57",
+      "ms": 1655666037000
+    },
+    "startingTime": 355000
+  },
+  {
+    "id": "1519419051075899394",
+    "followersCount": 289,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:59.000Z",
+      "formatted": "19/06/2022, 19:13:59",
+      "ms": 1655666039000
+    },
+    "startingTime": 357000
+  },
+  {
+    "id": "1307548939550294017",
+    "followersCount": 2908,
+    "likes": 0,
+    "retweets": 56,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:02.000Z",
+      "formatted": "19/06/2022, 19:14:02",
+      "ms": 1655666042000
+    },
+    "startingTime": 360000
+  },
+  {
+    "id": "3230771313",
+    "followersCount": 457,
+    "likes": 0,
+    "retweets": 14,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:04.000Z",
+      "formatted": "19/06/2022, 19:14:04",
+      "ms": 1655666044000
+    },
+    "startingTime": 362000
+  },
+  {
+    "id": "1311415537528983552",
+    "followersCount": 87,
+    "likes": 0,
+    "retweets": 26,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:07.000Z",
+      "formatted": "19/06/2022, 19:14:07",
+      "ms": 1655666047000
+    },
+    "startingTime": 365000
+  },
+  {
+    "id": "1327422868884426753",
+    "followersCount": 1060,
+    "likes": 0,
+    "retweets": 603,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:09.000Z",
+      "formatted": "19/06/2022, 19:14:09",
+      "ms": 1655666049000
+    },
+    "startingTime": 367000
+  },
+  {
+    "id": "899257349935955968",
+    "followersCount": 2588,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:10.000Z",
+      "formatted": "19/06/2022, 19:14:10",
+      "ms": 1655666050000
+    },
+    "startingTime": 368000
+  },
+  {
+    "id": "1501522587049934854",
+    "followersCount": 3,
+    "likes": 0,
+    "retweets": 126,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:13.000Z",
+      "formatted": "19/06/2022, 19:14:13",
+      "ms": 1655666053000
+    },
+    "startingTime": 371000
+  },
+  {
+    "id": "765229409813032960",
+    "followersCount": 5,
+    "likes": 0,
+    "retweets": 63,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:14.000Z",
+      "formatted": "19/06/2022, 19:14:14",
+      "ms": 1655666054000
+    },
+    "startingTime": 372000
+  },
+  {
+    "id": "1336351645958086656",
+    "followersCount": 654,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:23.000Z",
+      "formatted": "19/06/2022, 19:14:23",
+      "ms": 1655666063000
+    },
+    "startingTime": 381000
+  },
+  {
+    "id": "2329770158",
+    "followersCount": 1494,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:25.000Z",
+      "formatted": "19/06/2022, 19:14:25",
+      "ms": 1655666065000
+    },
+    "startingTime": 383000
+  },
+  {
+    "id": "825582259889590272",
+    "followersCount": 26,
+    "likes": 0,
+    "retweets": 38,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:25.000Z",
+      "formatted": "19/06/2022, 19:14:25",
+      "ms": 1655666065000
+    },
+    "startingTime": 383500
+  },
+  {
+    "id": "2294193683",
+    "followersCount": 895,
+    "likes": 0,
+    "retweets": 21,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:34.000Z",
+      "formatted": "19/06/2022, 19:14:34",
+      "ms": 1655666074000
+    },
+    "startingTime": 392000
+  },
+  {
+    "id": "296698466",
+    "followersCount": 36,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:37.000Z",
+      "formatted": "19/06/2022, 19:14:37",
+      "ms": 1655666077000
+    },
+    "startingTime": 395000
+  },
+  {
+    "id": "4843629263",
+    "followersCount": 6364,
+    "likes": 0,
+    "retweets": 849,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:39.000Z",
+      "formatted": "19/06/2022, 19:14:39",
+      "ms": 1655666079000
+    },
+    "startingTime": 397000
+  },
+  {
+    "id": "939577925975855105",
+    "followersCount": 1514,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:40.000Z",
+      "formatted": "19/06/2022, 19:14:40",
+      "ms": 1655666080000
+    },
+    "startingTime": 398000
+  },
+  {
+    "id": "1338111704874573826",
+    "followersCount": 647,
+    "likes": 0,
+    "retweets": 180,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:40.000Z",
+      "formatted": "19/06/2022, 19:14:40",
+      "ms": 1655666080000
+    },
+    "startingTime": 398500
+  },
+  {
+    "id": "1144688899639402496",
+    "followersCount": 220,
+    "likes": 0,
+    "retweets": 50,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:44.000Z",
+      "formatted": "19/06/2022, 19:14:44",
+      "ms": 1655666084000
+    },
+    "startingTime": 402000
+  },
+  {
+    "id": "897401189611995137",
+    "followersCount": 5,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:48.000Z",
+      "formatted": "19/06/2022, 19:14:48",
+      "ms": 1655666088000
+    },
+    "startingTime": 406000
+  },
+  {
+    "id": "82340330",
+    "followersCount": 3060,
+    "likes": 0,
+    "retweets": 849,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:48.000Z",
+      "formatted": "19/06/2022, 19:14:48",
+      "ms": 1655666088000
+    },
+    "startingTime": 406500
+  },
+  {
+    "id": "196360336",
+    "followersCount": 507,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:49.000Z",
+      "formatted": "19/06/2022, 19:14:49",
+      "ms": 1655666089000
+    },
+    "startingTime": 407000
+  },
+  {
+    "id": "1365629306",
+    "followersCount": 190,
+    "likes": 0,
+    "retweets": 39,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:54.000Z",
+      "formatted": "19/06/2022, 19:14:54",
+      "ms": 1655666094000
+    },
+    "startingTime": 412000
+  },
+  {
+    "id": "1496865008814366726",
+    "followersCount": 37,
+    "likes": 0,
+    "retweets": 297,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:59.000Z",
+      "formatted": "19/06/2022, 19:14:59",
+      "ms": 1655666099000
+    },
+    "startingTime": 417000
+  },
+  {
+    "id": "1117545887155146753",
+    "followersCount": 314,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:06.000Z",
+      "formatted": "19/06/2022, 19:15:06",
+      "ms": 1655666106000
+    },
+    "startingTime": 424000
+  },
+  {
+    "id": "1428177924553859072",
+    "followersCount": 546,
+    "likes": 0,
+    "retweets": 4,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:06.000Z",
+      "formatted": "19/06/2022, 19:15:06",
+      "ms": 1655666106000
+    },
+    "startingTime": 424333.3333333334
+  },
+  {
+    "id": "182765446",
+    "followersCount": 453,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:06.000Z",
+      "formatted": "19/06/2022, 19:15:06",
+      "ms": 1655666106000
+    },
+    "startingTime": 424666.6666666666
+  },
+  {
+    "id": "598973191",
+    "followersCount": 9334,
+    "likes": 0,
+    "retweets": 6,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:09.000Z",
+      "formatted": "19/06/2022, 19:15:09",
+      "ms": 1655666109000
+    },
+    "startingTime": 427000
+  },
+  {
+    "id": "1212738891326746625",
+    "followersCount": 11,
+    "likes": 0,
+    "retweets": 7,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:18.000Z",
+      "formatted": "19/06/2022, 19:15:18",
+      "ms": 1655666118000
+    },
+    "startingTime": 436000
+  },
+  {
+    "id": "1492151258555244545",
+    "followersCount": 752,
+    "likes": 0,
+    "retweets": 5,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:20.000Z",
+      "formatted": "19/06/2022, 19:15:20",
+      "ms": 1655666120000
+    },
+    "startingTime": 438000
+  },
+  {
+    "id": "1499771048610385923",
+    "followersCount": 5,
+    "likes": 0,
+    "retweets": 33,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:20.000Z",
+      "formatted": "19/06/2022, 19:15:20",
+      "ms": 1655666120000
+    },
+    "startingTime": 438500
+  },
+  {
+    "id": "780802080642433025",
+    "followersCount": 99,
+    "likes": 0,
+    "retweets": 73,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:25.000Z",
+      "formatted": "19/06/2022, 19:15:25",
+      "ms": 1655666125000
+    },
+    "startingTime": 443000
+  },
+  {
+    "id": "1225793633342935043",
+    "followersCount": 9220,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:26.000Z",
+      "formatted": "19/06/2022, 19:15:26",
+      "ms": 1655666126000
+    },
+    "startingTime": 444000
+  },
+  {
+    "id": "502068387",
+    "followersCount": 259,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:27.000Z",
+      "formatted": "19/06/2022, 19:15:27",
+      "ms": 1655666127000
+    },
+    "startingTime": 445000
+  },
+  {
+    "id": "1445805349202706437",
+    "followersCount": 3228,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:31.000Z",
+      "formatted": "19/06/2022, 19:15:31",
+      "ms": 1655666131000
+    },
+    "startingTime": 449000
+  },
+  {
+    "id": "883421593",
+    "followersCount": 6948,
+    "likes": 0,
+    "retweets": 54,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:39.000Z",
+      "formatted": "19/06/2022, 19:15:39",
+      "ms": 1655666139000
+    },
+    "startingTime": 457000
+  },
+  {
+    "id": "48486244",
+    "followersCount": 32296,
+    "likes": 0,
+    "retweets": 95,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:40.000Z",
+      "formatted": "19/06/2022, 19:15:40",
+      "ms": 1655666140000
+    },
+    "startingTime": 458000
+  },
+  {
+    "id": "1366719778380013569",
+    "followersCount": 128,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:43.000Z",
+      "formatted": "19/06/2022, 19:15:43",
+      "ms": 1655666143000
+    },
+    "startingTime": 461000
+  },
+  {
+    "id": "173730909",
+    "followersCount": 28,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:45.000Z",
+      "formatted": "19/06/2022, 19:15:45",
+      "ms": 1655666145000
+    },
+    "startingTime": 463000
+  },
+  {
+    "id": "1439015184341905410",
+    "followersCount": 28,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:50.000Z",
+      "formatted": "19/06/2022, 19:15:50",
+      "ms": 1655666150000
+    },
+    "startingTime": 468000
+  },
+  {
+    "id": "414208540",
+    "followersCount": 455,
+    "likes": 0,
+    "retweets": 181,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:50.000Z",
+      "formatted": "19/06/2022, 19:15:50",
+      "ms": 1655666150000
+    },
+    "startingTime": 468500
+  },
+  {
+    "id": "1529969782434455566",
+    "followersCount": 13,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:54.000Z",
+      "formatted": "19/06/2022, 19:15:54",
+      "ms": 1655666154000
+    },
+    "startingTime": 472000
+  },
+  {
+    "id": "2496203046",
+    "followersCount": 23,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:54.000Z",
+      "formatted": "19/06/2022, 19:15:54",
+      "ms": 1655666154000
+    },
+    "startingTime": 472500
+  },
+  {
+    "id": "1474621128882724867",
+    "followersCount": 2773,
+    "likes": 0,
+    "retweets": 19,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:56.000Z",
+      "formatted": "19/06/2022, 19:15:56",
+      "ms": 1655666156000
+    },
+    "startingTime": 474000
+  },
+  {
+    "id": "1263898793012916224",
+    "followersCount": 1738,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:02.000Z",
+      "formatted": "19/06/2022, 19:16:02",
+      "ms": 1655666162000
+    },
+    "startingTime": 480000
+  },
+  {
+    "id": "37229237",
+    "followersCount": 715,
+    "likes": 0,
+    "retweets": 288,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:05.000Z",
+      "formatted": "19/06/2022, 19:16:05",
+      "ms": 1655666165000
+    },
+    "startingTime": 483000
+  },
+  {
+    "id": "1390467125479940097",
+    "followersCount": 1,
+    "likes": 0,
+    "retweets": 32,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:10.000Z",
+      "formatted": "19/06/2022, 19:16:10",
+      "ms": 1655666170000
+    },
+    "startingTime": 488000
+  },
+  {
+    "id": "1518719403394691073",
+    "followersCount": 94,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:12.000Z",
+      "formatted": "19/06/2022, 19:16:12",
+      "ms": 1655666172000
+    },
+    "startingTime": 490000
+  },
+  {
+    "id": "1493826106654437377",
+    "followersCount": 24,
+    "likes": 0,
+    "retweets": 78,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:15.000Z",
+      "formatted": "19/06/2022, 19:16:15",
+      "ms": 1655666175000
+    },
+    "startingTime": 493000
+  },
+  {
+    "id": "1731665011",
+    "followersCount": 2733,
+    "likes": 0,
+    "retweets": 6,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:20.000Z",
+      "formatted": "19/06/2022, 19:16:20",
+      "ms": 1655666180000
+    },
+    "startingTime": 498000
+  },
+  {
+    "id": "912428236273016833",
+    "followersCount": 309,
+    "likes": 0,
+    "retweets": 1008,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:20.000Z",
+      "formatted": "19/06/2022, 19:16:20",
+      "ms": 1655666180000
+    },
+    "startingTime": 498500
+  },
+  {
+    "id": "1460377075882373121",
+    "followersCount": 38354,
+    "likes": 1,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:24.000Z",
+      "formatted": "19/06/2022, 19:16:24",
+      "ms": 1655666184000
+    },
+    "startingTime": 502000
+  },
+  {
+    "id": "92580074",
+    "followersCount": 83,
+    "likes": 0,
+    "retweets": 24,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:24.000Z",
+      "formatted": "19/06/2022, 19:16:24",
+      "ms": 1655666184000
+    },
+    "startingTime": 502500
+  },
+  {
+    "id": "595222060",
+    "followersCount": 16,
+    "likes": 0,
+    "retweets": 24,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:27.000Z",
+      "formatted": "19/06/2022, 19:16:27",
+      "ms": 1655666187000
+    },
+    "startingTime": 505000
+  },
+  {
+    "id": "1045124724005597184",
+    "followersCount": 330,
+    "likes": 0,
+    "retweets": 6,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:32.000Z",
+      "formatted": "19/06/2022, 19:16:32",
+      "ms": 1655666192000
+    },
+    "startingTime": 510000
+  },
+  {
+    "id": "2505382854",
+    "followersCount": 208,
+    "likes": 0,
+    "retweets": 10,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:32.000Z",
+      "formatted": "19/06/2022, 19:16:32",
+      "ms": 1655666192000
+    },
+    "startingTime": 510500
+  },
+  {
+    "id": "49610232",
+    "followersCount": 178,
+    "likes": 0,
+    "retweets": 603,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:34.000Z",
+      "formatted": "19/06/2022, 19:16:34",
+      "ms": 1655666194000
+    },
+    "startingTime": 512000
+  },
+  {
+    "id": "87946564",
+    "followersCount": 984,
+    "likes": 0,
+    "retweets": 849,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:35.000Z",
+      "formatted": "19/06/2022, 19:16:35",
+      "ms": 1655666195000
+    },
+    "startingTime": 513000
+  },
+  {
+    "id": "754913164827959300",
+    "followersCount": 5400,
+    "likes": 0,
+    "retweets": 15,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:35.000Z",
+      "formatted": "19/06/2022, 19:16:35",
+      "ms": 1655666195000
+    },
+    "startingTime": 513333.3333333334
+  },
+  {
+    "id": "1017472428371533826",
+    "followersCount": 19,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:35.000Z",
+      "formatted": "19/06/2022, 19:16:35",
+      "ms": 1655666195000
+    },
+    "startingTime": 513666.6666666666
+  },
+  {
+    "id": "940932764907573255",
+    "followersCount": 223,
+    "likes": 0,
+    "retweets": 33,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:38.000Z",
+      "formatted": "19/06/2022, 19:16:38",
+      "ms": 1655666198000
+    },
+    "startingTime": 516000
+  },
+  {
+    "id": "1726096375",
+    "followersCount": 1903,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:44.000Z",
+      "formatted": "19/06/2022, 19:16:44",
+      "ms": 1655666204000
+    },
+    "startingTime": 522000
+  },
+  {
+    "id": "1202276791",
+    "followersCount": 939,
+    "likes": 0,
+    "retweets": 898,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:44.000Z",
+      "formatted": "19/06/2022, 19:16:44",
+      "ms": 1655666204000
+    },
+    "startingTime": 522500
+  },
+  {
+    "id": "830675603435163648",
+    "followersCount": 190,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:48.000Z",
+      "formatted": "19/06/2022, 19:16:48",
+      "ms": 1655666208000
+    },
+    "startingTime": 526000
+  },
+  {
+    "id": "192547775",
+    "followersCount": 275668,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:51.000Z",
+      "formatted": "19/06/2022, 19:16:51",
+      "ms": 1655666211000
+    },
+    "startingTime": 529000
+  },
+  {
+    "id": "1276776108466241538",
+    "followersCount": 48,
+    "likes": 0,
+    "retweets": 35,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:51.000Z",
+      "formatted": "19/06/2022, 19:16:51",
+      "ms": 1655666211000
+    },
+    "startingTime": 529500
+  },
+  {
+    "id": "1353405114497699841",
+    "followersCount": 260,
+    "likes": 0,
+    "retweets": 422,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:52.000Z",
+      "formatted": "19/06/2022, 19:16:52",
+      "ms": 1655666212000
+    },
+    "startingTime": 530000
+  },
+  {
+    "id": "65567458",
+    "followersCount": 12222,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:27.000Z",
+      "formatted": "19/06/2022, 19:12:27",
+      "ms": 1655665947000
+    },
+    "startingTime": 530000
+  },
+  {
+    "id": "2460232575",
+    "followersCount": 550,
+    "likes": 0,
+    "retweets": 1,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:28.000Z",
+      "formatted": "19/06/2022, 19:12:28",
+      "ms": 1655665948000
+    },
+    "startingTime": 531000
+  },
+  {
+    "id": "2604535584",
+    "followersCount": 338,
+    "likes": 0,
+    "retweets": 333,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:30.000Z",
+      "formatted": "19/06/2022, 19:12:30",
+      "ms": 1655665950000
+    },
+    "startingTime": 533000
+  },
+  {
+    "id": "1498337445959585800",
+    "followersCount": 784,
+    "likes": 0,
+    "retweets": 8,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:31.000Z",
+      "formatted": "19/06/2022, 19:12:31",
+      "ms": 1655665951000
+    },
+    "startingTime": 534000
+  },
+  {
+    "id": "1512160549357899784",
+    "followersCount": 0,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:37.000Z",
+      "formatted": "19/06/2022, 19:12:37",
+      "ms": 1655665957000
+    },
+    "startingTime": 540000
+  },
+  {
+    "id": "163233014",
+    "followersCount": 46,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:38.000Z",
+      "formatted": "19/06/2022, 19:12:38",
+      "ms": 1655665958000
+    },
+    "startingTime": 541000
+  },
+  {
+    "id": "2657722758",
+    "followersCount": 82,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:38.000Z",
+      "formatted": "19/06/2022, 19:12:38",
+      "ms": 1655665958000
+    },
+    "startingTime": 541500
+  },
+  {
+    "id": "308730093",
+    "followersCount": 73,
+    "likes": 0,
+    "retweets": 95,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:39.000Z",
+      "formatted": "19/06/2022, 19:12:39",
+      "ms": 1655665959000
+    },
+    "startingTime": 542000
+  },
+  {
+    "id": "1421247884",
+    "followersCount": 163,
+    "likes": 0,
+    "retweets": 181,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:47.000Z",
+      "formatted": "19/06/2022, 19:12:47",
+      "ms": 1655665967000
+    },
+    "startingTime": 550000
+  },
+  {
+    "id": "360443229",
+    "followersCount": 45,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:50.000Z",
+      "formatted": "19/06/2022, 19:12:50",
+      "ms": 1655665970000
+    },
+    "startingTime": 553000
+  },
+  {
+    "id": "1444350683373883394",
+    "followersCount": 814,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:51.000Z",
+      "formatted": "19/06/2022, 19:12:51",
+      "ms": 1655665971000
+    },
+    "startingTime": 554000
+  },
+  {
+    "id": "1268342920534319106",
+    "followersCount": 6,
+    "likes": 0,
+    "retweets": 288,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:54.000Z",
+      "formatted": "19/06/2022, 19:12:54",
+      "ms": 1655665974000
+    },
+    "startingTime": 557000
+  },
+  {
+    "id": "324079105",
+    "followersCount": 200,
+    "likes": 0,
+    "retweets": 263,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:00.000Z",
+      "formatted": "19/06/2022, 19:13:00",
+      "ms": 1655665980000
+    },
+    "startingTime": 563000
+  },
+  {
+    "id": "54695115",
+    "followersCount": 779,
+    "likes": 0,
+    "retweets": 264,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:07.000Z",
+      "formatted": "19/06/2022, 19:13:07",
+      "ms": 1655665987000
+    },
+    "startingTime": 570000
+  },
+  {
+    "id": "852007106",
+    "followersCount": 1221,
+    "likes": 0,
+    "retweets": 95,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:07.000Z",
+      "formatted": "19/06/2022, 19:13:07",
+      "ms": 1655665987000
+    },
+    "startingTime": 570500
+  },
+  {
+    "id": "19500405",
+    "followersCount": 78854,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:08.000Z",
+      "formatted": "19/06/2022, 19:13:08",
+      "ms": 1655665988000
+    },
+    "startingTime": 571000
+  },
+  {
+    "id": "384424061",
+    "followersCount": 128,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:08.000Z",
+      "formatted": "19/06/2022, 19:13:08",
+      "ms": 1655665988000
+    },
+    "startingTime": 571333.3333333334
+  },
+  {
+    "id": "723608486593073155",
+    "followersCount": 5338,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:08.000Z",
+      "formatted": "19/06/2022, 19:13:08",
+      "ms": 1655665988000
+    },
+    "startingTime": 571666.6666666666
+  },
+  {
+    "id": "1004415894330728448",
+    "followersCount": 141,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:11.000Z",
+      "formatted": "19/06/2022, 19:13:11",
+      "ms": 1655665991000
+    },
+    "startingTime": 574000
+  },
+  {
+    "id": "79943315",
+    "followersCount": 377,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:11.000Z",
+      "formatted": "19/06/2022, 19:13:11",
+      "ms": 1655665991000
+    },
+    "startingTime": 574500
+  },
+  {
+    "id": "1266145259718955010",
+    "followersCount": 278,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:14.000Z",
+      "formatted": "19/06/2022, 19:13:14",
+      "ms": 1655665994000
+    },
+    "startingTime": 577000
+  },
+  {
+    "id": "372494314",
+    "followersCount": 1847,
+    "likes": 0,
+    "retweets": 559,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:21.000Z",
+      "formatted": "19/06/2022, 19:13:21",
+      "ms": 1655666001000
+    },
+    "startingTime": 584000
+  },
+  {
+    "id": "1856740418",
+    "followersCount": 51,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:26.000Z",
+      "formatted": "19/06/2022, 19:13:26",
+      "ms": 1655666006000
+    },
+    "startingTime": 589000
+  },
+  {
+    "id": "1222088337114136576",
+    "followersCount": 57,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:28.000Z",
+      "formatted": "19/06/2022, 19:13:28",
+      "ms": 1655666008000
+    },
+    "startingTime": 591000
+  },
+  {
+    "id": "888066840034803714",
+    "followersCount": 125,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:28.000Z",
+      "formatted": "19/06/2022, 19:13:28",
+      "ms": 1655666008000
+    },
+    "startingTime": 591500
+  },
+  {
+    "id": "317780760",
+    "followersCount": 229,
+    "likes": 0,
+    "retweets": 559,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:33.000Z",
+      "formatted": "19/06/2022, 19:13:33",
+      "ms": 1655666013000
+    },
+    "startingTime": 596000
+  },
+  {
+    "id": "250075408",
+    "followersCount": 97,
+    "likes": 0,
+    "retweets": 181,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:36.000Z",
+      "formatted": "19/06/2022, 19:13:36",
+      "ms": 1655666016000
+    },
+    "startingTime": 599000
+  },
+  {
+    "id": "375376626",
+    "followersCount": 151,
+    "likes": 0,
+    "retweets": 624,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:36.000Z",
+      "formatted": "19/06/2022, 19:13:36",
+      "ms": 1655666016000
+    },
+    "startingTime": 599500
+  },
+  {
+    "id": "141283057",
+    "followersCount": 14463,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:43.000Z",
+      "formatted": "19/06/2022, 19:13:43",
+      "ms": 1655666023000
+    },
+    "startingTime": 606000
+  },
+  {
+    "id": "95808833",
+    "followersCount": 299,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:43.000Z",
+      "formatted": "19/06/2022, 19:13:43",
+      "ms": 1655666023000
+    },
+    "startingTime": 606500
+  },
+  {
+    "id": "1266921827236012032",
+    "followersCount": 223,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:52.000Z",
+      "formatted": "19/06/2022, 19:13:52",
+      "ms": 1655666032000
+    },
+    "startingTime": 615000
+  },
+  {
+    "id": "1185165431935524864",
+    "followersCount": 21,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:53.000Z",
+      "formatted": "19/06/2022, 19:13:53",
+      "ms": 1655666033000
+    },
+    "startingTime": 616000
+  },
+  {
+    "id": "19489239",
+    "followersCount": 564230,
+    "likes": 2,
+    "retweets": 1,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:56.000Z",
+      "formatted": "19/06/2022, 19:13:56",
+      "ms": 1655666036000
+    },
+    "startingTime": 619000
+  },
+  {
+    "id": "1538148371457884160",
+    "followersCount": 4,
+    "likes": 0,
+    "retweets": 10,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:57.000Z",
+      "formatted": "19/06/2022, 19:13:57",
+      "ms": 1655666037000
+    },
+    "startingTime": 620000
+  },
+  {
+    "id": "1519419051075899394",
+    "followersCount": 289,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:59.000Z",
+      "formatted": "19/06/2022, 19:13:59",
+      "ms": 1655666039000
+    },
+    "startingTime": 622000
+  },
+  {
+    "id": "1307548939550294017",
+    "followersCount": 2908,
+    "likes": 0,
+    "retweets": 56,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:02.000Z",
+      "formatted": "19/06/2022, 19:14:02",
+      "ms": 1655666042000
+    },
+    "startingTime": 625000
+  },
+  {
+    "id": "3230771313",
+    "followersCount": 457,
+    "likes": 0,
+    "retweets": 14,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:04.000Z",
+      "formatted": "19/06/2022, 19:14:04",
+      "ms": 1655666044000
+    },
+    "startingTime": 627000
+  },
+  {
+    "id": "1311415537528983552",
+    "followersCount": 87,
+    "likes": 0,
+    "retweets": 26,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:07.000Z",
+      "formatted": "19/06/2022, 19:14:07",
+      "ms": 1655666047000
+    },
+    "startingTime": 630000
+  },
+  {
+    "id": "1327422868884426753",
+    "followersCount": 1060,
+    "likes": 0,
+    "retweets": 603,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:09.000Z",
+      "formatted": "19/06/2022, 19:14:09",
+      "ms": 1655666049000
+    },
+    "startingTime": 632000
+  },
+  {
+    "id": "899257349935955968",
+    "followersCount": 2588,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:10.000Z",
+      "formatted": "19/06/2022, 19:14:10",
+      "ms": 1655666050000
+    },
+    "startingTime": 633000
+  },
+  {
+    "id": "1501522587049934854",
+    "followersCount": 3,
+    "likes": 0,
+    "retweets": 126,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:13.000Z",
+      "formatted": "19/06/2022, 19:14:13",
+      "ms": 1655666053000
+    },
+    "startingTime": 636000
+  },
+  {
+    "id": "765229409813032960",
+    "followersCount": 5,
+    "likes": 0,
+    "retweets": 63,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:14.000Z",
+      "formatted": "19/06/2022, 19:14:14",
+      "ms": 1655666054000
+    },
+    "startingTime": 637000
+  },
+  {
+    "id": "1336351645958086656",
+    "followersCount": 654,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:23.000Z",
+      "formatted": "19/06/2022, 19:14:23",
+      "ms": 1655666063000
+    },
+    "startingTime": 646000
+  },
+  {
+    "id": "2329770158",
+    "followersCount": 1494,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:25.000Z",
+      "formatted": "19/06/2022, 19:14:25",
+      "ms": 1655666065000
+    },
+    "startingTime": 648000
+  },
+  {
+    "id": "825582259889590272",
+    "followersCount": 26,
+    "likes": 0,
+    "retweets": 38,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:25.000Z",
+      "formatted": "19/06/2022, 19:14:25",
+      "ms": 1655666065000
+    },
+    "startingTime": 648500
+  },
+  {
+    "id": "2294193683",
+    "followersCount": 895,
+    "likes": 0,
+    "retweets": 21,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:34.000Z",
+      "formatted": "19/06/2022, 19:14:34",
+      "ms": 1655666074000
+    },
+    "startingTime": 657000
+  },
+  {
+    "id": "296698466",
+    "followersCount": 36,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:37.000Z",
+      "formatted": "19/06/2022, 19:14:37",
+      "ms": 1655666077000
+    },
+    "startingTime": 660000
+  },
+  {
+    "id": "4843629263",
+    "followersCount": 6364,
+    "likes": 0,
+    "retweets": 849,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:39.000Z",
+      "formatted": "19/06/2022, 19:14:39",
+      "ms": 1655666079000
+    },
+    "startingTime": 662000
+  },
+  {
+    "id": "939577925975855105",
+    "followersCount": 1514,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:40.000Z",
+      "formatted": "19/06/2022, 19:14:40",
+      "ms": 1655666080000
+    },
+    "startingTime": 663000
+  },
+  {
+    "id": "1338111704874573826",
+    "followersCount": 647,
+    "likes": 0,
+    "retweets": 180,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:40.000Z",
+      "formatted": "19/06/2022, 19:14:40",
+      "ms": 1655666080000
+    },
+    "startingTime": 663500
+  },
+  {
+    "id": "1144688899639402496",
+    "followersCount": 220,
+    "likes": 0,
+    "retweets": 50,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:44.000Z",
+      "formatted": "19/06/2022, 19:14:44",
+      "ms": 1655666084000
+    },
+    "startingTime": 667000
+  },
+  {
+    "id": "897401189611995137",
+    "followersCount": 5,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:48.000Z",
+      "formatted": "19/06/2022, 19:14:48",
+      "ms": 1655666088000
+    },
+    "startingTime": 671000
+  },
+  {
+    "id": "82340330",
+    "followersCount": 3060,
+    "likes": 0,
+    "retweets": 849,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:48.000Z",
+      "formatted": "19/06/2022, 19:14:48",
+      "ms": 1655666088000
+    },
+    "startingTime": 671500
+  },
+  {
+    "id": "196360336",
+    "followersCount": 507,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:49.000Z",
+      "formatted": "19/06/2022, 19:14:49",
+      "ms": 1655666089000
+    },
+    "startingTime": 672000
+  },
+  {
+    "id": "1365629306",
+    "followersCount": 190,
+    "likes": 0,
+    "retweets": 39,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:54.000Z",
+      "formatted": "19/06/2022, 19:14:54",
+      "ms": 1655666094000
+    },
+    "startingTime": 677000
+  },
+  {
+    "id": "1496865008814366726",
+    "followersCount": 37,
+    "likes": 0,
+    "retweets": 297,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:59.000Z",
+      "formatted": "19/06/2022, 19:14:59",
+      "ms": 1655666099000
+    },
+    "startingTime": 682000
+  },
+  {
+    "id": "1117545887155146753",
+    "followersCount": 314,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:06.000Z",
+      "formatted": "19/06/2022, 19:15:06",
+      "ms": 1655666106000
+    },
+    "startingTime": 689000
+  },
+  {
+    "id": "1428177924553859072",
+    "followersCount": 546,
+    "likes": 0,
+    "retweets": 4,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:06.000Z",
+      "formatted": "19/06/2022, 19:15:06",
+      "ms": 1655666106000
+    },
+    "startingTime": 689333.3333333334
+  },
+  {
+    "id": "182765446",
+    "followersCount": 453,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:06.000Z",
+      "formatted": "19/06/2022, 19:15:06",
+      "ms": 1655666106000
+    },
+    "startingTime": 689666.6666666666
+  },
+  {
+    "id": "598973191",
+    "followersCount": 9334,
+    "likes": 0,
+    "retweets": 6,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:09.000Z",
+      "formatted": "19/06/2022, 19:15:09",
+      "ms": 1655666109000
+    },
+    "startingTime": 692000
+  },
+  {
+    "id": "1212738891326746625",
+    "followersCount": 11,
+    "likes": 0,
+    "retweets": 7,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:18.000Z",
+      "formatted": "19/06/2022, 19:15:18",
+      "ms": 1655666118000
+    },
+    "startingTime": 701000
+  },
+  {
+    "id": "1492151258555244545",
+    "followersCount": 752,
+    "likes": 0,
+    "retweets": 5,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:20.000Z",
+      "formatted": "19/06/2022, 19:15:20",
+      "ms": 1655666120000
+    },
+    "startingTime": 703000
+  },
+  {
+    "id": "1499771048610385923",
+    "followersCount": 5,
+    "likes": 0,
+    "retweets": 33,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:20.000Z",
+      "formatted": "19/06/2022, 19:15:20",
+      "ms": 1655666120000
+    },
+    "startingTime": 703500
+  },
+  {
+    "id": "780802080642433025",
+    "followersCount": 99,
+    "likes": 0,
+    "retweets": 73,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:25.000Z",
+      "formatted": "19/06/2022, 19:15:25",
+      "ms": 1655666125000
+    },
+    "startingTime": 708000
+  },
+  {
+    "id": "1225793633342935043",
+    "followersCount": 9220,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:26.000Z",
+      "formatted": "19/06/2022, 19:15:26",
+      "ms": 1655666126000
+    },
+    "startingTime": 709000
+  },
+  {
+    "id": "502068387",
+    "followersCount": 259,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:27.000Z",
+      "formatted": "19/06/2022, 19:15:27",
+      "ms": 1655666127000
+    },
+    "startingTime": 710000
+  },
+  {
+    "id": "1445805349202706437",
+    "followersCount": 3228,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:31.000Z",
+      "formatted": "19/06/2022, 19:15:31",
+      "ms": 1655666131000
+    },
+    "startingTime": 714000
+  },
+  {
+    "id": "883421593",
+    "followersCount": 6948,
+    "likes": 0,
+    "retweets": 54,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:39.000Z",
+      "formatted": "19/06/2022, 19:15:39",
+      "ms": 1655666139000
+    },
+    "startingTime": 722000
+  },
+  {
+    "id": "48486244",
+    "followersCount": 32296,
+    "likes": 0,
+    "retweets": 95,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:40.000Z",
+      "formatted": "19/06/2022, 19:15:40",
+      "ms": 1655666140000
+    },
+    "startingTime": 723000
+  },
+  {
+    "id": "1366719778380013569",
+    "followersCount": 128,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:43.000Z",
+      "formatted": "19/06/2022, 19:15:43",
+      "ms": 1655666143000
+    },
+    "startingTime": 726000
+  },
+  {
+    "id": "173730909",
+    "followersCount": 28,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:45.000Z",
+      "formatted": "19/06/2022, 19:15:45",
+      "ms": 1655666145000
+    },
+    "startingTime": 728000
+  },
+  {
+    "id": "1439015184341905410",
+    "followersCount": 28,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:50.000Z",
+      "formatted": "19/06/2022, 19:15:50",
+      "ms": 1655666150000
+    },
+    "startingTime": 733000
+  },
+  {
+    "id": "414208540",
+    "followersCount": 455,
+    "likes": 0,
+    "retweets": 181,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:50.000Z",
+      "formatted": "19/06/2022, 19:15:50",
+      "ms": 1655666150000
+    },
+    "startingTime": 733500
+  },
+  {
+    "id": "1529969782434455566",
+    "followersCount": 13,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:54.000Z",
+      "formatted": "19/06/2022, 19:15:54",
+      "ms": 1655666154000
+    },
+    "startingTime": 737000
+  },
+  {
+    "id": "2496203046",
+    "followersCount": 23,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:54.000Z",
+      "formatted": "19/06/2022, 19:15:54",
+      "ms": 1655666154000
+    },
+    "startingTime": 737500
+  },
+  {
+    "id": "1474621128882724867",
+    "followersCount": 2773,
+    "likes": 0,
+    "retweets": 19,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:56.000Z",
+      "formatted": "19/06/2022, 19:15:56",
+      "ms": 1655666156000
+    },
+    "startingTime": 739000
+  },
+  {
+    "id": "1263898793012916224",
+    "followersCount": 1738,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:02.000Z",
+      "formatted": "19/06/2022, 19:16:02",
+      "ms": 1655666162000
+    },
+    "startingTime": 745000
+  },
+  {
+    "id": "37229237",
+    "followersCount": 715,
+    "likes": 0,
+    "retweets": 288,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:05.000Z",
+      "formatted": "19/06/2022, 19:16:05",
+      "ms": 1655666165000
+    },
+    "startingTime": 748000
+  },
+  {
+    "id": "1390467125479940097",
+    "followersCount": 1,
+    "likes": 0,
+    "retweets": 32,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:10.000Z",
+      "formatted": "19/06/2022, 19:16:10",
+      "ms": 1655666170000
+    },
+    "startingTime": 753000
+  },
+  {
+    "id": "1518719403394691073",
+    "followersCount": 94,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:12.000Z",
+      "formatted": "19/06/2022, 19:16:12",
+      "ms": 1655666172000
+    },
+    "startingTime": 755000
+  },
+  {
+    "id": "1493826106654437377",
+    "followersCount": 24,
+    "likes": 0,
+    "retweets": 78,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:15.000Z",
+      "formatted": "19/06/2022, 19:16:15",
+      "ms": 1655666175000
+    },
+    "startingTime": 758000
+  },
+  {
+    "id": "1731665011",
+    "followersCount": 2733,
+    "likes": 0,
+    "retweets": 6,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:20.000Z",
+      "formatted": "19/06/2022, 19:16:20",
+      "ms": 1655666180000
+    },
+    "startingTime": 763000
+  },
+  {
+    "id": "912428236273016833",
+    "followersCount": 309,
+    "likes": 0,
+    "retweets": 1008,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:20.000Z",
+      "formatted": "19/06/2022, 19:16:20",
+      "ms": 1655666180000
+    },
+    "startingTime": 763500
+  },
+  {
+    "id": "1460377075882373121",
+    "followersCount": 38354,
+    "likes": 1,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:24.000Z",
+      "formatted": "19/06/2022, 19:16:24",
+      "ms": 1655666184000
+    },
+    "startingTime": 767000
+  },
+  {
+    "id": "92580074",
+    "followersCount": 83,
+    "likes": 0,
+    "retweets": 24,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:24.000Z",
+      "formatted": "19/06/2022, 19:16:24",
+      "ms": 1655666184000
+    },
+    "startingTime": 767500
+  },
+  {
+    "id": "595222060",
+    "followersCount": 16,
+    "likes": 0,
+    "retweets": 24,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:27.000Z",
+      "formatted": "19/06/2022, 19:16:27",
+      "ms": 1655666187000
+    },
+    "startingTime": 770000
+  },
+  {
+    "id": "1045124724005597184",
+    "followersCount": 330,
+    "likes": 0,
+    "retweets": 6,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:32.000Z",
+      "formatted": "19/06/2022, 19:16:32",
+      "ms": 1655666192000
+    },
+    "startingTime": 775000
+  },
+  {
+    "id": "2505382854",
+    "followersCount": 208,
+    "likes": 0,
+    "retweets": 10,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:32.000Z",
+      "formatted": "19/06/2022, 19:16:32",
+      "ms": 1655666192000
+    },
+    "startingTime": 775500
+  },
+  {
+    "id": "49610232",
+    "followersCount": 178,
+    "likes": 0,
+    "retweets": 603,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:34.000Z",
+      "formatted": "19/06/2022, 19:16:34",
+      "ms": 1655666194000
+    },
+    "startingTime": 777000
+  },
+  {
+    "id": "87946564",
+    "followersCount": 984,
+    "likes": 0,
+    "retweets": 849,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:35.000Z",
+      "formatted": "19/06/2022, 19:16:35",
+      "ms": 1655666195000
+    },
+    "startingTime": 778000
+  },
+  {
+    "id": "754913164827959300",
+    "followersCount": 5400,
+    "likes": 0,
+    "retweets": 15,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:35.000Z",
+      "formatted": "19/06/2022, 19:16:35",
+      "ms": 1655666195000
+    },
+    "startingTime": 778333.3333333334
+  },
+  {
+    "id": "1017472428371533826",
+    "followersCount": 19,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:35.000Z",
+      "formatted": "19/06/2022, 19:16:35",
+      "ms": 1655666195000
+    },
+    "startingTime": 778666.6666666666
+  },
+  {
+    "id": "940932764907573255",
+    "followersCount": 223,
+    "likes": 0,
+    "retweets": 33,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:38.000Z",
+      "formatted": "19/06/2022, 19:16:38",
+      "ms": 1655666198000
+    },
+    "startingTime": 781000
+  },
+  {
+    "id": "1726096375",
+    "followersCount": 1903,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:44.000Z",
+      "formatted": "19/06/2022, 19:16:44",
+      "ms": 1655666204000
+    },
+    "startingTime": 787000
+  },
+  {
+    "id": "1202276791",
+    "followersCount": 939,
+    "likes": 0,
+    "retweets": 898,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:44.000Z",
+      "formatted": "19/06/2022, 19:16:44",
+      "ms": 1655666204000
+    },
+    "startingTime": 787500
+  },
+  {
+    "id": "830675603435163648",
+    "followersCount": 190,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:48.000Z",
+      "formatted": "19/06/2022, 19:16:48",
+      "ms": 1655666208000
+    },
+    "startingTime": 791000
+  },
+  {
+    "id": "192547775",
+    "followersCount": 275668,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:51.000Z",
+      "formatted": "19/06/2022, 19:16:51",
+      "ms": 1655666211000
+    },
+    "startingTime": 794000
+  },
+  {
+    "id": "1276776108466241538",
+    "followersCount": 48,
+    "likes": 0,
+    "retweets": 35,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:51.000Z",
+      "formatted": "19/06/2022, 19:16:51",
+      "ms": 1655666211000
+    },
+    "startingTime": 794500
+  },
+  {
+    "id": "1353405114497699841",
+    "followersCount": 260,
+    "likes": 0,
+    "retweets": 422,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:52.000Z",
+      "formatted": "19/06/2022, 19:16:52",
+      "ms": 1655666212000
+    },
+    "startingTime": 795000
+  },
+  {
+    "id": "2460232575",
+    "followersCount": 550,
+    "likes": 0,
+    "retweets": 1,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:28.000Z",
+      "formatted": "19/06/2022, 19:12:28",
+      "ms": 1655665948000
+    },
+    "startingTime": 795000
+  },
+  {
+    "id": "2604535584",
+    "followersCount": 338,
+    "likes": 0,
+    "retweets": 333,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:30.000Z",
+      "formatted": "19/06/2022, 19:12:30",
+      "ms": 1655665950000
+    },
+    "startingTime": 797000
+  },
+  {
+    "id": "1498337445959585800",
+    "followersCount": 784,
+    "likes": 0,
+    "retweets": 8,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:31.000Z",
+      "formatted": "19/06/2022, 19:12:31",
+      "ms": 1655665951000
+    },
+    "startingTime": 798000
+  },
+  {
+    "id": "1512160549357899784",
+    "followersCount": 0,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:37.000Z",
+      "formatted": "19/06/2022, 19:12:37",
+      "ms": 1655665957000
+    },
+    "startingTime": 804000
+  },
+  {
+    "id": "163233014",
+    "followersCount": 46,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:38.000Z",
+      "formatted": "19/06/2022, 19:12:38",
+      "ms": 1655665958000
+    },
+    "startingTime": 805000
+  },
+  {
+    "id": "2657722758",
+    "followersCount": 82,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:38.000Z",
+      "formatted": "19/06/2022, 19:12:38",
+      "ms": 1655665958000
+    },
+    "startingTime": 805500
+  },
+  {
+    "id": "308730093",
+    "followersCount": 73,
+    "likes": 0,
+    "retweets": 95,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:39.000Z",
+      "formatted": "19/06/2022, 19:12:39",
+      "ms": 1655665959000
+    },
+    "startingTime": 806000
+  },
+  {
+    "id": "1421247884",
+    "followersCount": 163,
+    "likes": 0,
+    "retweets": 181,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:47.000Z",
+      "formatted": "19/06/2022, 19:12:47",
+      "ms": 1655665967000
+    },
+    "startingTime": 814000
+  },
+  {
+    "id": "360443229",
+    "followersCount": 45,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:50.000Z",
+      "formatted": "19/06/2022, 19:12:50",
+      "ms": 1655665970000
+    },
+    "startingTime": 817000
+  },
+  {
+    "id": "1444350683373883394",
+    "followersCount": 814,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:51.000Z",
+      "formatted": "19/06/2022, 19:12:51",
+      "ms": 1655665971000
+    },
+    "startingTime": 818000
+  },
+  {
+    "id": "1268342920534319106",
+    "followersCount": 6,
+    "likes": 0,
+    "retweets": 288,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:54.000Z",
+      "formatted": "19/06/2022, 19:12:54",
+      "ms": 1655665974000
+    },
+    "startingTime": 821000
+  },
+  {
+    "id": "324079105",
+    "followersCount": 200,
+    "likes": 0,
+    "retweets": 263,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:00.000Z",
+      "formatted": "19/06/2022, 19:13:00",
+      "ms": 1655665980000
+    },
+    "startingTime": 827000
+  },
+  {
+    "id": "54695115",
+    "followersCount": 779,
+    "likes": 0,
+    "retweets": 264,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:07.000Z",
+      "formatted": "19/06/2022, 19:13:07",
+      "ms": 1655665987000
+    },
+    "startingTime": 834000
+  },
+  {
+    "id": "852007106",
+    "followersCount": 1221,
+    "likes": 0,
+    "retweets": 95,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:07.000Z",
+      "formatted": "19/06/2022, 19:13:07",
+      "ms": 1655665987000
+    },
+    "startingTime": 834500
+  },
+  {
+    "id": "19500405",
+    "followersCount": 78854,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:08.000Z",
+      "formatted": "19/06/2022, 19:13:08",
+      "ms": 1655665988000
+    },
+    "startingTime": 835000
+  },
+  {
+    "id": "384424061",
+    "followersCount": 128,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:08.000Z",
+      "formatted": "19/06/2022, 19:13:08",
+      "ms": 1655665988000
+    },
+    "startingTime": 835333.3333333334
+  },
+  {
+    "id": "723608486593073155",
+    "followersCount": 5338,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:08.000Z",
+      "formatted": "19/06/2022, 19:13:08",
+      "ms": 1655665988000
+    },
+    "startingTime": 835666.6666666666
+  },
+  {
+    "id": "1004415894330728448",
+    "followersCount": 141,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:11.000Z",
+      "formatted": "19/06/2022, 19:13:11",
+      "ms": 1655665991000
+    },
+    "startingTime": 838000
+  },
+  {
+    "id": "79943315",
+    "followersCount": 377,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:11.000Z",
+      "formatted": "19/06/2022, 19:13:11",
+      "ms": 1655665991000
+    },
+    "startingTime": 838500
+  },
+  {
+    "id": "1266145259718955010",
+    "followersCount": 278,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:14.000Z",
+      "formatted": "19/06/2022, 19:13:14",
+      "ms": 1655665994000
+    },
+    "startingTime": 841000
+  },
+  {
+    "id": "372494314",
+    "followersCount": 1847,
+    "likes": 0,
+    "retweets": 559,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:21.000Z",
+      "formatted": "19/06/2022, 19:13:21",
+      "ms": 1655666001000
+    },
+    "startingTime": 848000
+  },
+  {
+    "id": "1856740418",
+    "followersCount": 51,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:26.000Z",
+      "formatted": "19/06/2022, 19:13:26",
+      "ms": 1655666006000
+    },
+    "startingTime": 853000
+  },
+  {
+    "id": "1222088337114136576",
+    "followersCount": 57,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:28.000Z",
+      "formatted": "19/06/2022, 19:13:28",
+      "ms": 1655666008000
+    },
+    "startingTime": 855000
+  },
+  {
+    "id": "888066840034803714",
+    "followersCount": 125,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:28.000Z",
+      "formatted": "19/06/2022, 19:13:28",
+      "ms": 1655666008000
+    },
+    "startingTime": 855500
+  },
+  {
+    "id": "317780760",
+    "followersCount": 229,
+    "likes": 0,
+    "retweets": 559,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:33.000Z",
+      "formatted": "19/06/2022, 19:13:33",
+      "ms": 1655666013000
+    },
+    "startingTime": 860000
+  },
+  {
+    "id": "250075408",
+    "followersCount": 97,
+    "likes": 0,
+    "retweets": 181,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:36.000Z",
+      "formatted": "19/06/2022, 19:13:36",
+      "ms": 1655666016000
+    },
+    "startingTime": 863000
+  },
+  {
+    "id": "375376626",
+    "followersCount": 151,
+    "likes": 0,
+    "retweets": 624,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:36.000Z",
+      "formatted": "19/06/2022, 19:13:36",
+      "ms": 1655666016000
+    },
+    "startingTime": 863500
+  },
+  {
+    "id": "141283057",
+    "followersCount": 14463,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:43.000Z",
+      "formatted": "19/06/2022, 19:13:43",
+      "ms": 1655666023000
+    },
+    "startingTime": 870000
+  },
+  {
+    "id": "95808833",
+    "followersCount": 299,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:43.000Z",
+      "formatted": "19/06/2022, 19:13:43",
+      "ms": 1655666023000
+    },
+    "startingTime": 870500
+  },
+  {
+    "id": "1266921827236012032",
+    "followersCount": 223,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:52.000Z",
+      "formatted": "19/06/2022, 19:13:52",
+      "ms": 1655666032000
+    },
+    "startingTime": 879000
+  },
+  {
+    "id": "1185165431935524864",
+    "followersCount": 21,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:53.000Z",
+      "formatted": "19/06/2022, 19:13:53",
+      "ms": 1655666033000
+    },
+    "startingTime": 880000
+  },
+  {
+    "id": "19489239",
+    "followersCount": 564230,
+    "likes": 2,
+    "retweets": 1,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:56.000Z",
+      "formatted": "19/06/2022, 19:13:56",
+      "ms": 1655666036000
+    },
+    "startingTime": 883000
+  },
+  {
+    "id": "1538148371457884160",
+    "followersCount": 4,
+    "likes": 0,
+    "retweets": 10,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:57.000Z",
+      "formatted": "19/06/2022, 19:13:57",
+      "ms": 1655666037000
+    },
+    "startingTime": 884000
+  },
+  {
+    "id": "1519419051075899394",
+    "followersCount": 289,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:59.000Z",
+      "formatted": "19/06/2022, 19:13:59",
+      "ms": 1655666039000
+    },
+    "startingTime": 886000
+  },
+  {
+    "id": "1307548939550294017",
+    "followersCount": 2908,
+    "likes": 0,
+    "retweets": 56,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:02.000Z",
+      "formatted": "19/06/2022, 19:14:02",
+      "ms": 1655666042000
+    },
+    "startingTime": 889000
+  },
+  {
+    "id": "3230771313",
+    "followersCount": 457,
+    "likes": 0,
+    "retweets": 14,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:04.000Z",
+      "formatted": "19/06/2022, 19:14:04",
+      "ms": 1655666044000
+    },
+    "startingTime": 891000
+  },
+  {
+    "id": "1311415537528983552",
+    "followersCount": 87,
+    "likes": 0,
+    "retweets": 26,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:07.000Z",
+      "formatted": "19/06/2022, 19:14:07",
+      "ms": 1655666047000
+    },
+    "startingTime": 894000
+  },
+  {
+    "id": "1327422868884426753",
+    "followersCount": 1060,
+    "likes": 0,
+    "retweets": 603,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:09.000Z",
+      "formatted": "19/06/2022, 19:14:09",
+      "ms": 1655666049000
+    },
+    "startingTime": 896000
+  },
+  {
+    "id": "899257349935955968",
+    "followersCount": 2588,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:10.000Z",
+      "formatted": "19/06/2022, 19:14:10",
+      "ms": 1655666050000
+    },
+    "startingTime": 897000
+  },
+  {
+    "id": "1501522587049934854",
+    "followersCount": 3,
+    "likes": 0,
+    "retweets": 126,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:13.000Z",
+      "formatted": "19/06/2022, 19:14:13",
+      "ms": 1655666053000
+    },
+    "startingTime": 900000
+  },
+  {
+    "id": "765229409813032960",
+    "followersCount": 5,
+    "likes": 0,
+    "retweets": 63,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:14.000Z",
+      "formatted": "19/06/2022, 19:14:14",
+      "ms": 1655666054000
+    },
+    "startingTime": 901000
+  },
+  {
+    "id": "1336351645958086656",
+    "followersCount": 654,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:23.000Z",
+      "formatted": "19/06/2022, 19:14:23",
+      "ms": 1655666063000
+    },
+    "startingTime": 910000
+  },
+  {
+    "id": "2329770158",
+    "followersCount": 1494,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:25.000Z",
+      "formatted": "19/06/2022, 19:14:25",
+      "ms": 1655666065000
+    },
+    "startingTime": 912000
+  },
+  {
+    "id": "825582259889590272",
+    "followersCount": 26,
+    "likes": 0,
+    "retweets": 38,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:25.000Z",
+      "formatted": "19/06/2022, 19:14:25",
+      "ms": 1655666065000
+    },
+    "startingTime": 912500
+  },
+  {
+    "id": "2294193683",
+    "followersCount": 895,
+    "likes": 0,
+    "retweets": 21,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:34.000Z",
+      "formatted": "19/06/2022, 19:14:34",
+      "ms": 1655666074000
+    },
+    "startingTime": 921000
+  },
+  {
+    "id": "296698466",
+    "followersCount": 36,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:37.000Z",
+      "formatted": "19/06/2022, 19:14:37",
+      "ms": 1655666077000
+    },
+    "startingTime": 924000
+  },
+  {
+    "id": "4843629263",
+    "followersCount": 6364,
+    "likes": 0,
+    "retweets": 849,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:39.000Z",
+      "formatted": "19/06/2022, 19:14:39",
+      "ms": 1655666079000
+    },
+    "startingTime": 926000
+  },
+  {
+    "id": "939577925975855105",
+    "followersCount": 1514,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:40.000Z",
+      "formatted": "19/06/2022, 19:14:40",
+      "ms": 1655666080000
+    },
+    "startingTime": 927000
+  },
+  {
+    "id": "1338111704874573826",
+    "followersCount": 647,
+    "likes": 0,
+    "retweets": 180,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:40.000Z",
+      "formatted": "19/06/2022, 19:14:40",
+      "ms": 1655666080000
+    },
+    "startingTime": 927500
+  },
+  {
+    "id": "1144688899639402496",
+    "followersCount": 220,
+    "likes": 0,
+    "retweets": 50,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:44.000Z",
+      "formatted": "19/06/2022, 19:14:44",
+      "ms": 1655666084000
+    },
+    "startingTime": 931000
+  },
+  {
+    "id": "897401189611995137",
+    "followersCount": 5,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:48.000Z",
+      "formatted": "19/06/2022, 19:14:48",
+      "ms": 1655666088000
+    },
+    "startingTime": 935000
+  },
+  {
+    "id": "82340330",
+    "followersCount": 3060,
+    "likes": 0,
+    "retweets": 849,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:48.000Z",
+      "formatted": "19/06/2022, 19:14:48",
+      "ms": 1655666088000
+    },
+    "startingTime": 935500
+  },
+  {
+    "id": "196360336",
+    "followersCount": 507,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:49.000Z",
+      "formatted": "19/06/2022, 19:14:49",
+      "ms": 1655666089000
+    },
+    "startingTime": 936000
+  },
+  {
+    "id": "1365629306",
+    "followersCount": 190,
+    "likes": 0,
+    "retweets": 39,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:54.000Z",
+      "formatted": "19/06/2022, 19:14:54",
+      "ms": 1655666094000
+    },
+    "startingTime": 941000
+  },
+  {
+    "id": "1496865008814366726",
+    "followersCount": 37,
+    "likes": 0,
+    "retweets": 297,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:59.000Z",
+      "formatted": "19/06/2022, 19:14:59",
+      "ms": 1655666099000
+    },
+    "startingTime": 946000
+  },
+  {
+    "id": "1117545887155146753",
+    "followersCount": 314,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:06.000Z",
+      "formatted": "19/06/2022, 19:15:06",
+      "ms": 1655666106000
+    },
+    "startingTime": 953000
+  },
+  {
+    "id": "1428177924553859072",
+    "followersCount": 546,
+    "likes": 0,
+    "retweets": 4,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:06.000Z",
+      "formatted": "19/06/2022, 19:15:06",
+      "ms": 1655666106000
+    },
+    "startingTime": 953333.3333333334
+  },
+  {
+    "id": "182765446",
+    "followersCount": 453,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:06.000Z",
+      "formatted": "19/06/2022, 19:15:06",
+      "ms": 1655666106000
+    },
+    "startingTime": 953666.6666666666
+  },
+  {
+    "id": "598973191",
+    "followersCount": 9334,
+    "likes": 0,
+    "retweets": 6,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:09.000Z",
+      "formatted": "19/06/2022, 19:15:09",
+      "ms": 1655666109000
+    },
+    "startingTime": 956000
+  },
+  {
+    "id": "1212738891326746625",
+    "followersCount": 11,
+    "likes": 0,
+    "retweets": 7,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:18.000Z",
+      "formatted": "19/06/2022, 19:15:18",
+      "ms": 1655666118000
+    },
+    "startingTime": 965000
+  },
+  {
+    "id": "1492151258555244545",
+    "followersCount": 752,
+    "likes": 0,
+    "retweets": 5,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:20.000Z",
+      "formatted": "19/06/2022, 19:15:20",
+      "ms": 1655666120000
+    },
+    "startingTime": 967000
+  },
+  {
+    "id": "1499771048610385923",
+    "followersCount": 5,
+    "likes": 0,
+    "retweets": 33,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:20.000Z",
+      "formatted": "19/06/2022, 19:15:20",
+      "ms": 1655666120000
+    },
+    "startingTime": 967500
+  },
+  {
+    "id": "780802080642433025",
+    "followersCount": 99,
+    "likes": 0,
+    "retweets": 73,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:25.000Z",
+      "formatted": "19/06/2022, 19:15:25",
+      "ms": 1655666125000
+    },
+    "startingTime": 972000
+  },
+  {
+    "id": "1225793633342935043",
+    "followersCount": 9220,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:26.000Z",
+      "formatted": "19/06/2022, 19:15:26",
+      "ms": 1655666126000
+    },
+    "startingTime": 973000
+  },
+  {
+    "id": "502068387",
+    "followersCount": 259,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:27.000Z",
+      "formatted": "19/06/2022, 19:15:27",
+      "ms": 1655666127000
+    },
+    "startingTime": 974000
+  },
+  {
+    "id": "1445805349202706437",
+    "followersCount": 3228,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:31.000Z",
+      "formatted": "19/06/2022, 19:15:31",
+      "ms": 1655666131000
+    },
+    "startingTime": 978000
+  },
+  {
+    "id": "883421593",
+    "followersCount": 6948,
+    "likes": 0,
+    "retweets": 54,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:39.000Z",
+      "formatted": "19/06/2022, 19:15:39",
+      "ms": 1655666139000
+    },
+    "startingTime": 986000
+  },
+  {
+    "id": "48486244",
+    "followersCount": 32296,
+    "likes": 0,
+    "retweets": 95,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:40.000Z",
+      "formatted": "19/06/2022, 19:15:40",
+      "ms": 1655666140000
+    },
+    "startingTime": 987000
+  },
+  {
+    "id": "1366719778380013569",
+    "followersCount": 128,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:43.000Z",
+      "formatted": "19/06/2022, 19:15:43",
+      "ms": 1655666143000
+    },
+    "startingTime": 990000
+  },
+  {
+    "id": "173730909",
+    "followersCount": 28,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:45.000Z",
+      "formatted": "19/06/2022, 19:15:45",
+      "ms": 1655666145000
+    },
+    "startingTime": 992000
+  },
+  {
+    "id": "1439015184341905410",
+    "followersCount": 28,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:50.000Z",
+      "formatted": "19/06/2022, 19:15:50",
+      "ms": 1655666150000
+    },
+    "startingTime": 997000
+  },
+  {
+    "id": "414208540",
+    "followersCount": 455,
+    "likes": 0,
+    "retweets": 181,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:50.000Z",
+      "formatted": "19/06/2022, 19:15:50",
+      "ms": 1655666150000
+    },
+    "startingTime": 997500
+  },
+  {
+    "id": "1529969782434455566",
+    "followersCount": 13,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:54.000Z",
+      "formatted": "19/06/2022, 19:15:54",
+      "ms": 1655666154000
+    },
+    "startingTime": 1001000
+  },
+  {
+    "id": "2496203046",
+    "followersCount": 23,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:54.000Z",
+      "formatted": "19/06/2022, 19:15:54",
+      "ms": 1655666154000
+    },
+    "startingTime": 1001500
+  },
+  {
+    "id": "1474621128882724867",
+    "followersCount": 2773,
+    "likes": 0,
+    "retweets": 19,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:56.000Z",
+      "formatted": "19/06/2022, 19:15:56",
+      "ms": 1655666156000
+    },
+    "startingTime": 1003000
+  },
+  {
+    "id": "1263898793012916224",
+    "followersCount": 1738,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:02.000Z",
+      "formatted": "19/06/2022, 19:16:02",
+      "ms": 1655666162000
+    },
+    "startingTime": 1009000
+  },
+  {
+    "id": "37229237",
+    "followersCount": 715,
+    "likes": 0,
+    "retweets": 288,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:05.000Z",
+      "formatted": "19/06/2022, 19:16:05",
+      "ms": 1655666165000
+    },
+    "startingTime": 1012000
+  },
+  {
+    "id": "1390467125479940097",
+    "followersCount": 1,
+    "likes": 0,
+    "retweets": 32,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:10.000Z",
+      "formatted": "19/06/2022, 19:16:10",
+      "ms": 1655666170000
+    },
+    "startingTime": 1017000
+  },
+  {
+    "id": "1518719403394691073",
+    "followersCount": 94,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:12.000Z",
+      "formatted": "19/06/2022, 19:16:12",
+      "ms": 1655666172000
+    },
+    "startingTime": 1019000
+  },
+  {
+    "id": "1493826106654437377",
+    "followersCount": 24,
+    "likes": 0,
+    "retweets": 78,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:15.000Z",
+      "formatted": "19/06/2022, 19:16:15",
+      "ms": 1655666175000
+    },
+    "startingTime": 1022000
+  },
+  {
+    "id": "1731665011",
+    "followersCount": 2733,
+    "likes": 0,
+    "retweets": 6,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:20.000Z",
+      "formatted": "19/06/2022, 19:16:20",
+      "ms": 1655666180000
+    },
+    "startingTime": 1027000
+  },
+  {
+    "id": "912428236273016833",
+    "followersCount": 309,
+    "likes": 0,
+    "retweets": 1008,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:20.000Z",
+      "formatted": "19/06/2022, 19:16:20",
+      "ms": 1655666180000
+    },
+    "startingTime": 1027500
+  },
+  {
+    "id": "1460377075882373121",
+    "followersCount": 38354,
+    "likes": 1,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:24.000Z",
+      "formatted": "19/06/2022, 19:16:24",
+      "ms": 1655666184000
+    },
+    "startingTime": 1031000
+  },
+  {
+    "id": "92580074",
+    "followersCount": 83,
+    "likes": 0,
+    "retweets": 24,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:24.000Z",
+      "formatted": "19/06/2022, 19:16:24",
+      "ms": 1655666184000
+    },
+    "startingTime": 1031500
+  },
+  {
+    "id": "595222060",
+    "followersCount": 16,
+    "likes": 0,
+    "retweets": 24,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:27.000Z",
+      "formatted": "19/06/2022, 19:16:27",
+      "ms": 1655666187000
+    },
+    "startingTime": 1034000
+  },
+  {
+    "id": "1045124724005597184",
+    "followersCount": 330,
+    "likes": 0,
+    "retweets": 6,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:32.000Z",
+      "formatted": "19/06/2022, 19:16:32",
+      "ms": 1655666192000
+    },
+    "startingTime": 1039000
+  },
+  {
+    "id": "2505382854",
+    "followersCount": 208,
+    "likes": 0,
+    "retweets": 10,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:32.000Z",
+      "formatted": "19/06/2022, 19:16:32",
+      "ms": 1655666192000
+    },
+    "startingTime": 1039500
+  },
+  {
+    "id": "49610232",
+    "followersCount": 178,
+    "likes": 0,
+    "retweets": 603,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:34.000Z",
+      "formatted": "19/06/2022, 19:16:34",
+      "ms": 1655666194000
+    },
+    "startingTime": 1041000
+  },
+  {
+    "id": "87946564",
+    "followersCount": 984,
+    "likes": 0,
+    "retweets": 849,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:35.000Z",
+      "formatted": "19/06/2022, 19:16:35",
+      "ms": 1655666195000
+    },
+    "startingTime": 1042000
+  },
+  {
+    "id": "754913164827959300",
+    "followersCount": 5400,
+    "likes": 0,
+    "retweets": 15,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:35.000Z",
+      "formatted": "19/06/2022, 19:16:35",
+      "ms": 1655666195000
+    },
+    "startingTime": 1042333.3333333334
+  },
+  {
+    "id": "1017472428371533826",
+    "followersCount": 19,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:35.000Z",
+      "formatted": "19/06/2022, 19:16:35",
+      "ms": 1655666195000
+    },
+    "startingTime": 1042666.6666666666
+  },
+  {
+    "id": "940932764907573255",
+    "followersCount": 223,
+    "likes": 0,
+    "retweets": 33,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:38.000Z",
+      "formatted": "19/06/2022, 19:16:38",
+      "ms": 1655666198000
+    },
+    "startingTime": 1045000
+  },
+  {
+    "id": "1726096375",
+    "followersCount": 1903,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:44.000Z",
+      "formatted": "19/06/2022, 19:16:44",
+      "ms": 1655666204000
+    },
+    "startingTime": 1051000
+  },
+  {
+    "id": "1202276791",
+    "followersCount": 939,
+    "likes": 0,
+    "retweets": 898,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:44.000Z",
+      "formatted": "19/06/2022, 19:16:44",
+      "ms": 1655666204000
+    },
+    "startingTime": 1051500
+  },
+  {
+    "id": "830675603435163648",
+    "followersCount": 190,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:48.000Z",
+      "formatted": "19/06/2022, 19:16:48",
+      "ms": 1655666208000
+    },
+    "startingTime": 1055000
+  },
+  {
+    "id": "192547775",
+    "followersCount": 275668,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:51.000Z",
+      "formatted": "19/06/2022, 19:16:51",
+      "ms": 1655666211000
+    },
+    "startingTime": 1058000
+  },
+  {
+    "id": "1276776108466241538",
+    "followersCount": 48,
+    "likes": 0,
+    "retweets": 35,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:51.000Z",
+      "formatted": "19/06/2022, 19:16:51",
+      "ms": 1655666211000
+    },
+    "startingTime": 1058500
+  },
+  {
+    "id": "1353405114497699841",
+    "followersCount": 260,
+    "likes": 0,
+    "retweets": 422,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:52.000Z",
+      "formatted": "19/06/2022, 19:16:52",
+      "ms": 1655666212000
+    },
+    "startingTime": 1059000
+  },
+  {
+    "id": "1378552322",
+    "followersCount": 864,
+    "likes": 0,
+    "retweets": 1,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:57.000Z",
+      "formatted": "19/06/2022, 19:16:57",
+      "ms": 1655666217000
+    },
+    "startingTime": 1064000
+  },
+  {
+    "id": "2460232575",
+    "followersCount": 550,
+    "likes": 0,
+    "retweets": 1,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:28.000Z",
+      "formatted": "19/06/2022, 19:12:28",
+      "ms": 1655665948000
+    },
+    "startingTime": 1064000
+  },
+  {
+    "id": "2604535584",
+    "followersCount": 338,
+    "likes": 0,
+    "retweets": 333,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:30.000Z",
+      "formatted": "19/06/2022, 19:12:30",
+      "ms": 1655665950000
+    },
+    "startingTime": 1066000
+  },
+  {
+    "id": "1498337445959585800",
+    "followersCount": 784,
+    "likes": 0,
+    "retweets": 8,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:31.000Z",
+      "formatted": "19/06/2022, 19:12:31",
+      "ms": 1655665951000
+    },
+    "startingTime": 1067000
+  },
+  {
+    "id": "1512160549357899784",
+    "followersCount": 0,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:37.000Z",
+      "formatted": "19/06/2022, 19:12:37",
+      "ms": 1655665957000
+    },
+    "startingTime": 1073000
+  },
+  {
+    "id": "163233014",
+    "followersCount": 46,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:38.000Z",
+      "formatted": "19/06/2022, 19:12:38",
+      "ms": 1655665958000
+    },
+    "startingTime": 1074000
+  },
+  {
+    "id": "2657722758",
+    "followersCount": 82,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:38.000Z",
+      "formatted": "19/06/2022, 19:12:38",
+      "ms": 1655665958000
+    },
+    "startingTime": 1074500
+  },
+  {
+    "id": "308730093",
+    "followersCount": 73,
+    "likes": 0,
+    "retweets": 95,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:39.000Z",
+      "formatted": "19/06/2022, 19:12:39",
+      "ms": 1655665959000
+    },
+    "startingTime": 1075000
+  },
+  {
+    "id": "1421247884",
+    "followersCount": 163,
+    "likes": 0,
+    "retweets": 181,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:47.000Z",
+      "formatted": "19/06/2022, 19:12:47",
+      "ms": 1655665967000
+    },
+    "startingTime": 1083000
+  },
+  {
+    "id": "360443229",
+    "followersCount": 45,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:50.000Z",
+      "formatted": "19/06/2022, 19:12:50",
+      "ms": 1655665970000
+    },
+    "startingTime": 1086000
+  },
+  {
+    "id": "1444350683373883394",
+    "followersCount": 814,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:51.000Z",
+      "formatted": "19/06/2022, 19:12:51",
+      "ms": 1655665971000
+    },
+    "startingTime": 1087000
+  },
+  {
+    "id": "1268342920534319106",
+    "followersCount": 6,
+    "likes": 0,
+    "retweets": 288,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:54.000Z",
+      "formatted": "19/06/2022, 19:12:54",
+      "ms": 1655665974000
+    },
+    "startingTime": 1090000
+  },
+  {
+    "id": "324079105",
+    "followersCount": 200,
+    "likes": 0,
+    "retweets": 263,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:00.000Z",
+      "formatted": "19/06/2022, 19:13:00",
+      "ms": 1655665980000
+    },
+    "startingTime": 1096000
+  },
+  {
+    "id": "54695115",
+    "followersCount": 779,
+    "likes": 0,
+    "retweets": 264,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:07.000Z",
+      "formatted": "19/06/2022, 19:13:07",
+      "ms": 1655665987000
+    },
+    "startingTime": 1103000
+  },
+  {
+    "id": "852007106",
+    "followersCount": 1221,
+    "likes": 0,
+    "retweets": 95,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:07.000Z",
+      "formatted": "19/06/2022, 19:13:07",
+      "ms": 1655665987000
+    },
+    "startingTime": 1103500
+  },
+  {
+    "id": "19500405",
+    "followersCount": 78854,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:08.000Z",
+      "formatted": "19/06/2022, 19:13:08",
+      "ms": 1655665988000
+    },
+    "startingTime": 1104000
+  },
+  {
+    "id": "384424061",
+    "followersCount": 128,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:08.000Z",
+      "formatted": "19/06/2022, 19:13:08",
+      "ms": 1655665988000
+    },
+    "startingTime": 1104333.3333333333
+  },
+  {
+    "id": "723608486593073155",
+    "followersCount": 5338,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:08.000Z",
+      "formatted": "19/06/2022, 19:13:08",
+      "ms": 1655665988000
+    },
+    "startingTime": 1104666.6666666667
+  },
+  {
+    "id": "1004415894330728448",
+    "followersCount": 141,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:11.000Z",
+      "formatted": "19/06/2022, 19:13:11",
+      "ms": 1655665991000
+    },
+    "startingTime": 1107000
+  },
+  {
+    "id": "79943315",
+    "followersCount": 377,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:11.000Z",
+      "formatted": "19/06/2022, 19:13:11",
+      "ms": 1655665991000
+    },
+    "startingTime": 1107500
+  },
+  {
+    "id": "1266145259718955010",
+    "followersCount": 278,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:14.000Z",
+      "formatted": "19/06/2022, 19:13:14",
+      "ms": 1655665994000
+    },
+    "startingTime": 1110000
+  },
+  {
+    "id": "372494314",
+    "followersCount": 1847,
+    "likes": 0,
+    "retweets": 559,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:21.000Z",
+      "formatted": "19/06/2022, 19:13:21",
+      "ms": 1655666001000
+    },
+    "startingTime": 1117000
+  },
+  {
+    "id": "1856740418",
+    "followersCount": 51,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:26.000Z",
+      "formatted": "19/06/2022, 19:13:26",
+      "ms": 1655666006000
+    },
+    "startingTime": 1122000
+  },
+  {
+    "id": "1222088337114136576",
+    "followersCount": 57,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:28.000Z",
+      "formatted": "19/06/2022, 19:13:28",
+      "ms": 1655666008000
+    },
+    "startingTime": 1124000
+  },
+  {
+    "id": "888066840034803714",
+    "followersCount": 125,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:28.000Z",
+      "formatted": "19/06/2022, 19:13:28",
+      "ms": 1655666008000
+    },
+    "startingTime": 1124500
+  },
+  {
+    "id": "317780760",
+    "followersCount": 229,
+    "likes": 0,
+    "retweets": 559,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:33.000Z",
+      "formatted": "19/06/2022, 19:13:33",
+      "ms": 1655666013000
+    },
+    "startingTime": 1129000
+  },
+  {
+    "id": "250075408",
+    "followersCount": 97,
+    "likes": 0,
+    "retweets": 181,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:36.000Z",
+      "formatted": "19/06/2022, 19:13:36",
+      "ms": 1655666016000
+    },
+    "startingTime": 1132000
+  },
+  {
+    "id": "375376626",
+    "followersCount": 151,
+    "likes": 0,
+    "retweets": 624,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:36.000Z",
+      "formatted": "19/06/2022, 19:13:36",
+      "ms": 1655666016000
+    },
+    "startingTime": 1132500
+  },
+  {
+    "id": "141283057",
+    "followersCount": 14463,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:43.000Z",
+      "formatted": "19/06/2022, 19:13:43",
+      "ms": 1655666023000
+    },
+    "startingTime": 1139000
+  },
+  {
+    "id": "95808833",
+    "followersCount": 299,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:43.000Z",
+      "formatted": "19/06/2022, 19:13:43",
+      "ms": 1655666023000
+    },
+    "startingTime": 1139500
+  },
+  {
+    "id": "1266921827236012032",
+    "followersCount": 223,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:52.000Z",
+      "formatted": "19/06/2022, 19:13:52",
+      "ms": 1655666032000
+    },
+    "startingTime": 1148000
+  },
+  {
+    "id": "1185165431935524864",
+    "followersCount": 21,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:53.000Z",
+      "formatted": "19/06/2022, 19:13:53",
+      "ms": 1655666033000
+    },
+    "startingTime": 1149000
+  },
+  {
+    "id": "19489239",
+    "followersCount": 564230,
+    "likes": 2,
+    "retweets": 1,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:56.000Z",
+      "formatted": "19/06/2022, 19:13:56",
+      "ms": 1655666036000
+    },
+    "startingTime": 1152000
+  },
+  {
+    "id": "1538148371457884160",
+    "followersCount": 4,
+    "likes": 0,
+    "retweets": 10,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:57.000Z",
+      "formatted": "19/06/2022, 19:13:57",
+      "ms": 1655666037000
+    },
+    "startingTime": 1153000
+  },
+  {
+    "id": "1519419051075899394",
+    "followersCount": 289,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:59.000Z",
+      "formatted": "19/06/2022, 19:13:59",
+      "ms": 1655666039000
+    },
+    "startingTime": 1155000
+  },
+  {
+    "id": "1307548939550294017",
+    "followersCount": 2908,
+    "likes": 0,
+    "retweets": 56,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:02.000Z",
+      "formatted": "19/06/2022, 19:14:02",
+      "ms": 1655666042000
+    },
+    "startingTime": 1158000
+  },
+  {
+    "id": "3230771313",
+    "followersCount": 457,
+    "likes": 0,
+    "retweets": 14,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:04.000Z",
+      "formatted": "19/06/2022, 19:14:04",
+      "ms": 1655666044000
+    },
+    "startingTime": 1160000
+  },
+  {
+    "id": "1311415537528983552",
+    "followersCount": 87,
+    "likes": 0,
+    "retweets": 26,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:07.000Z",
+      "formatted": "19/06/2022, 19:14:07",
+      "ms": 1655666047000
+    },
+    "startingTime": 1163000
+  },
+  {
+    "id": "1327422868884426753",
+    "followersCount": 1060,
+    "likes": 0,
+    "retweets": 603,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:09.000Z",
+      "formatted": "19/06/2022, 19:14:09",
+      "ms": 1655666049000
+    },
+    "startingTime": 1165000
+  },
+  {
+    "id": "899257349935955968",
+    "followersCount": 2588,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:10.000Z",
+      "formatted": "19/06/2022, 19:14:10",
+      "ms": 1655666050000
+    },
+    "startingTime": 1166000
+  },
+  {
+    "id": "1501522587049934854",
+    "followersCount": 3,
+    "likes": 0,
+    "retweets": 126,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:13.000Z",
+      "formatted": "19/06/2022, 19:14:13",
+      "ms": 1655666053000
+    },
+    "startingTime": 1169000
+  },
+  {
+    "id": "765229409813032960",
+    "followersCount": 5,
+    "likes": 0,
+    "retweets": 63,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:14.000Z",
+      "formatted": "19/06/2022, 19:14:14",
+      "ms": 1655666054000
+    },
+    "startingTime": 1170000
+  },
+  {
+    "id": "1336351645958086656",
+    "followersCount": 654,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:23.000Z",
+      "formatted": "19/06/2022, 19:14:23",
+      "ms": 1655666063000
+    },
+    "startingTime": 1179000
+  },
+  {
+    "id": "2329770158",
+    "followersCount": 1494,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:25.000Z",
+      "formatted": "19/06/2022, 19:14:25",
+      "ms": 1655666065000
+    },
+    "startingTime": 1181000
+  },
+  {
+    "id": "825582259889590272",
+    "followersCount": 26,
+    "likes": 0,
+    "retweets": 38,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:25.000Z",
+      "formatted": "19/06/2022, 19:14:25",
+      "ms": 1655666065000
+    },
+    "startingTime": 1181500
+  },
+  {
+    "id": "2294193683",
+    "followersCount": 895,
+    "likes": 0,
+    "retweets": 21,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:34.000Z",
+      "formatted": "19/06/2022, 19:14:34",
+      "ms": 1655666074000
+    },
+    "startingTime": 1190000
+  },
+  {
+    "id": "296698466",
+    "followersCount": 36,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:37.000Z",
+      "formatted": "19/06/2022, 19:14:37",
+      "ms": 1655666077000
+    },
+    "startingTime": 1193000
+  },
+  {
+    "id": "4843629263",
+    "followersCount": 6364,
+    "likes": 0,
+    "retweets": 849,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:39.000Z",
+      "formatted": "19/06/2022, 19:14:39",
+      "ms": 1655666079000
+    },
+    "startingTime": 1195000
+  },
+  {
+    "id": "939577925975855105",
+    "followersCount": 1514,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:40.000Z",
+      "formatted": "19/06/2022, 19:14:40",
+      "ms": 1655666080000
+    },
+    "startingTime": 1196000
+  },
+  {
+    "id": "1338111704874573826",
+    "followersCount": 647,
+    "likes": 0,
+    "retweets": 180,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:40.000Z",
+      "formatted": "19/06/2022, 19:14:40",
+      "ms": 1655666080000
+    },
+    "startingTime": 1196500
+  },
+  {
+    "id": "1144688899639402496",
+    "followersCount": 220,
+    "likes": 0,
+    "retweets": 50,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:44.000Z",
+      "formatted": "19/06/2022, 19:14:44",
+      "ms": 1655666084000
+    },
+    "startingTime": 1200000
+  },
+  {
+    "id": "897401189611995137",
+    "followersCount": 5,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:48.000Z",
+      "formatted": "19/06/2022, 19:14:48",
+      "ms": 1655666088000
+    },
+    "startingTime": 1204000
+  },
+  {
+    "id": "82340330",
+    "followersCount": 3060,
+    "likes": 0,
+    "retweets": 849,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:48.000Z",
+      "formatted": "19/06/2022, 19:14:48",
+      "ms": 1655666088000
+    },
+    "startingTime": 1204500
+  },
+  {
+    "id": "196360336",
+    "followersCount": 507,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:49.000Z",
+      "formatted": "19/06/2022, 19:14:49",
+      "ms": 1655666089000
+    },
+    "startingTime": 1205000
+  },
+  {
+    "id": "1365629306",
+    "followersCount": 190,
+    "likes": 0,
+    "retweets": 39,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:54.000Z",
+      "formatted": "19/06/2022, 19:14:54",
+      "ms": 1655666094000
+    },
+    "startingTime": 1210000
+  },
+  {
+    "id": "1496865008814366726",
+    "followersCount": 37,
+    "likes": 0,
+    "retweets": 297,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:59.000Z",
+      "formatted": "19/06/2022, 19:14:59",
+      "ms": 1655666099000
+    },
+    "startingTime": 1215000
+  },
+  {
+    "id": "1117545887155146753",
+    "followersCount": 314,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:06.000Z",
+      "formatted": "19/06/2022, 19:15:06",
+      "ms": 1655666106000
+    },
+    "startingTime": 1222000
+  },
+  {
+    "id": "1428177924553859072",
+    "followersCount": 546,
+    "likes": 0,
+    "retweets": 4,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:06.000Z",
+      "formatted": "19/06/2022, 19:15:06",
+      "ms": 1655666106000
+    },
+    "startingTime": 1222333.3333333333
+  },
+  {
+    "id": "182765446",
+    "followersCount": 453,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:06.000Z",
+      "formatted": "19/06/2022, 19:15:06",
+      "ms": 1655666106000
+    },
+    "startingTime": 1222666.6666666667
+  },
+  {
+    "id": "598973191",
+    "followersCount": 9334,
+    "likes": 0,
+    "retweets": 6,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:09.000Z",
+      "formatted": "19/06/2022, 19:15:09",
+      "ms": 1655666109000
+    },
+    "startingTime": 1225000
+  },
+  {
+    "id": "1212738891326746625",
+    "followersCount": 11,
+    "likes": 0,
+    "retweets": 7,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:18.000Z",
+      "formatted": "19/06/2022, 19:15:18",
+      "ms": 1655666118000
+    },
+    "startingTime": 1234000
+  },
+  {
+    "id": "1492151258555244545",
+    "followersCount": 752,
+    "likes": 0,
+    "retweets": 5,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:20.000Z",
+      "formatted": "19/06/2022, 19:15:20",
+      "ms": 1655666120000
+    },
+    "startingTime": 1236000
+  },
+  {
+    "id": "1499771048610385923",
+    "followersCount": 5,
+    "likes": 0,
+    "retweets": 33,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:20.000Z",
+      "formatted": "19/06/2022, 19:15:20",
+      "ms": 1655666120000
+    },
+    "startingTime": 1236500
+  },
+  {
+    "id": "780802080642433025",
+    "followersCount": 99,
+    "likes": 0,
+    "retweets": 73,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:25.000Z",
+      "formatted": "19/06/2022, 19:15:25",
+      "ms": 1655666125000
+    },
+    "startingTime": 1241000
+  },
+  {
+    "id": "1225793633342935043",
+    "followersCount": 9220,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:26.000Z",
+      "formatted": "19/06/2022, 19:15:26",
+      "ms": 1655666126000
+    },
+    "startingTime": 1242000
+  },
+  {
+    "id": "502068387",
+    "followersCount": 259,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:27.000Z",
+      "formatted": "19/06/2022, 19:15:27",
+      "ms": 1655666127000
+    },
+    "startingTime": 1243000
+  },
+  {
+    "id": "1445805349202706437",
+    "followersCount": 3228,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:31.000Z",
+      "formatted": "19/06/2022, 19:15:31",
+      "ms": 1655666131000
+    },
+    "startingTime": 1247000
+  },
+  {
+    "id": "883421593",
+    "followersCount": 6948,
+    "likes": 0,
+    "retweets": 54,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:39.000Z",
+      "formatted": "19/06/2022, 19:15:39",
+      "ms": 1655666139000
+    },
+    "startingTime": 1255000
+  },
+  {
+    "id": "48486244",
+    "followersCount": 32296,
+    "likes": 0,
+    "retweets": 95,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:40.000Z",
+      "formatted": "19/06/2022, 19:15:40",
+      "ms": 1655666140000
+    },
+    "startingTime": 1256000
+  },
+  {
+    "id": "1366719778380013569",
+    "followersCount": 128,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:43.000Z",
+      "formatted": "19/06/2022, 19:15:43",
+      "ms": 1655666143000
+    },
+    "startingTime": 1259000
+  },
+  {
+    "id": "173730909",
+    "followersCount": 28,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:45.000Z",
+      "formatted": "19/06/2022, 19:15:45",
+      "ms": 1655666145000
+    },
+    "startingTime": 1261000
+  },
+  {
+    "id": "1439015184341905410",
+    "followersCount": 28,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:50.000Z",
+      "formatted": "19/06/2022, 19:15:50",
+      "ms": 1655666150000
+    },
+    "startingTime": 1266000
+  },
+  {
+    "id": "414208540",
+    "followersCount": 455,
+    "likes": 0,
+    "retweets": 181,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:50.000Z",
+      "formatted": "19/06/2022, 19:15:50",
+      "ms": 1655666150000
+    },
+    "startingTime": 1266500
+  },
+  {
+    "id": "1529969782434455566",
+    "followersCount": 13,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:54.000Z",
+      "formatted": "19/06/2022, 19:15:54",
+      "ms": 1655666154000
+    },
+    "startingTime": 1270000
+  },
+  {
+    "id": "2496203046",
+    "followersCount": 23,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:54.000Z",
+      "formatted": "19/06/2022, 19:15:54",
+      "ms": 1655666154000
+    },
+    "startingTime": 1270500
+  },
+  {
+    "id": "1474621128882724867",
+    "followersCount": 2773,
+    "likes": 0,
+    "retweets": 19,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:56.000Z",
+      "formatted": "19/06/2022, 19:15:56",
+      "ms": 1655666156000
+    },
+    "startingTime": 1272000
+  },
+  {
+    "id": "1263898793012916224",
+    "followersCount": 1738,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:02.000Z",
+      "formatted": "19/06/2022, 19:16:02",
+      "ms": 1655666162000
+    },
+    "startingTime": 1278000
+  },
+  {
+    "id": "37229237",
+    "followersCount": 715,
+    "likes": 0,
+    "retweets": 288,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:05.000Z",
+      "formatted": "19/06/2022, 19:16:05",
+      "ms": 1655666165000
+    },
+    "startingTime": 1281000
+  },
+  {
+    "id": "1390467125479940097",
+    "followersCount": 1,
+    "likes": 0,
+    "retweets": 32,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:10.000Z",
+      "formatted": "19/06/2022, 19:16:10",
+      "ms": 1655666170000
+    },
+    "startingTime": 1286000
+  },
+  {
+    "id": "1518719403394691073",
+    "followersCount": 94,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:12.000Z",
+      "formatted": "19/06/2022, 19:16:12",
+      "ms": 1655666172000
+    },
+    "startingTime": 1288000
+  },
+  {
+    "id": "1493826106654437377",
+    "followersCount": 24,
+    "likes": 0,
+    "retweets": 78,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:15.000Z",
+      "formatted": "19/06/2022, 19:16:15",
+      "ms": 1655666175000
+    },
+    "startingTime": 1291000
+  },
+  {
+    "id": "1731665011",
+    "followersCount": 2733,
+    "likes": 0,
+    "retweets": 6,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:20.000Z",
+      "formatted": "19/06/2022, 19:16:20",
+      "ms": 1655666180000
+    },
+    "startingTime": 1296000
+  },
+  {
+    "id": "912428236273016833",
+    "followersCount": 309,
+    "likes": 0,
+    "retweets": 1008,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:20.000Z",
+      "formatted": "19/06/2022, 19:16:20",
+      "ms": 1655666180000
+    },
+    "startingTime": 1296500
+  },
+  {
+    "id": "1460377075882373121",
+    "followersCount": 38354,
+    "likes": 1,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:24.000Z",
+      "formatted": "19/06/2022, 19:16:24",
+      "ms": 1655666184000
+    },
+    "startingTime": 1300000
+  },
+  {
+    "id": "92580074",
+    "followersCount": 83,
+    "likes": 0,
+    "retweets": 24,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:24.000Z",
+      "formatted": "19/06/2022, 19:16:24",
+      "ms": 1655666184000
+    },
+    "startingTime": 1300500
+  },
+  {
+    "id": "595222060",
+    "followersCount": 16,
+    "likes": 0,
+    "retweets": 24,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:27.000Z",
+      "formatted": "19/06/2022, 19:16:27",
+      "ms": 1655666187000
+    },
+    "startingTime": 1303000
+  },
+  {
+    "id": "1045124724005597184",
+    "followersCount": 330,
+    "likes": 0,
+    "retweets": 6,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:32.000Z",
+      "formatted": "19/06/2022, 19:16:32",
+      "ms": 1655666192000
+    },
+    "startingTime": 1308000
+  },
+  {
+    "id": "2505382854",
+    "followersCount": 208,
+    "likes": 0,
+    "retweets": 10,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:32.000Z",
+      "formatted": "19/06/2022, 19:16:32",
+      "ms": 1655666192000
+    },
+    "startingTime": 1308500
+  },
+  {
+    "id": "49610232",
+    "followersCount": 178,
+    "likes": 0,
+    "retweets": 603,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:34.000Z",
+      "formatted": "19/06/2022, 19:16:34",
+      "ms": 1655666194000
+    },
+    "startingTime": 1310000
+  },
+  {
+    "id": "87946564",
+    "followersCount": 984,
+    "likes": 0,
+    "retweets": 849,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:35.000Z",
+      "formatted": "19/06/2022, 19:16:35",
+      "ms": 1655666195000
+    },
+    "startingTime": 1311000
+  },
+  {
+    "id": "754913164827959300",
+    "followersCount": 5400,
+    "likes": 0,
+    "retweets": 15,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:35.000Z",
+      "formatted": "19/06/2022, 19:16:35",
+      "ms": 1655666195000
+    },
+    "startingTime": 1311333.3333333333
+  },
+  {
+    "id": "1017472428371533826",
+    "followersCount": 19,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:35.000Z",
+      "formatted": "19/06/2022, 19:16:35",
+      "ms": 1655666195000
+    },
+    "startingTime": 1311666.6666666667
+  },
+  {
+    "id": "940932764907573255",
+    "followersCount": 223,
+    "likes": 0,
+    "retweets": 33,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:38.000Z",
+      "formatted": "19/06/2022, 19:16:38",
+      "ms": 1655666198000
+    },
+    "startingTime": 1314000
+  },
+  {
+    "id": "1726096375",
+    "followersCount": 1903,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:44.000Z",
+      "formatted": "19/06/2022, 19:16:44",
+      "ms": 1655666204000
+    },
+    "startingTime": 1320000
+  },
+  {
+    "id": "1202276791",
+    "followersCount": 939,
+    "likes": 0,
+    "retweets": 898,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:44.000Z",
+      "formatted": "19/06/2022, 19:16:44",
+      "ms": 1655666204000
+    },
+    "startingTime": 1320500
+  },
+  {
+    "id": "830675603435163648",
+    "followersCount": 190,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:48.000Z",
+      "formatted": "19/06/2022, 19:16:48",
+      "ms": 1655666208000
+    },
+    "startingTime": 1324000
+  },
+  {
+    "id": "192547775",
+    "followersCount": 275668,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:51.000Z",
+      "formatted": "19/06/2022, 19:16:51",
+      "ms": 1655666211000
+    },
+    "startingTime": 1327000
+  },
+  {
+    "id": "1276776108466241538",
+    "followersCount": 48,
+    "likes": 0,
+    "retweets": 35,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:51.000Z",
+      "formatted": "19/06/2022, 19:16:51",
+      "ms": 1655666211000
+    },
+    "startingTime": 1327500
+  },
+  {
+    "id": "1353405114497699841",
+    "followersCount": 260,
+    "likes": 0,
+    "retweets": 422,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:52.000Z",
+      "formatted": "19/06/2022, 19:16:52",
+      "ms": 1655666212000
+    },
+    "startingTime": 1328000
+  },
+  {
+    "id": "1378552322",
+    "followersCount": 864,
+    "likes": 0,
+    "retweets": 1,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:57.000Z",
+      "formatted": "19/06/2022, 19:16:57",
+      "ms": 1655666217000
+    },
+    "startingTime": 1333000
+  },
+  {
+    "id": "2604535584",
+    "followersCount": 338,
+    "likes": 0,
+    "retweets": 333,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:30.000Z",
+      "formatted": "19/06/2022, 19:12:30",
+      "ms": 1655665950000
+    },
+    "startingTime": 1333000
+  },
+  {
+    "id": "1498337445959585800",
+    "followersCount": 784,
+    "likes": 0,
+    "retweets": 8,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:31.000Z",
+      "formatted": "19/06/2022, 19:12:31",
+      "ms": 1655665951000
+    },
+    "startingTime": 1334000
+  },
+  {
+    "id": "1512160549357899784",
+    "followersCount": 0,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:37.000Z",
+      "formatted": "19/06/2022, 19:12:37",
+      "ms": 1655665957000
+    },
+    "startingTime": 1340000
+  },
+  {
+    "id": "163233014",
+    "followersCount": 46,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:38.000Z",
+      "formatted": "19/06/2022, 19:12:38",
+      "ms": 1655665958000
+    },
+    "startingTime": 1341000
+  },
+  {
+    "id": "2657722758",
+    "followersCount": 82,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:38.000Z",
+      "formatted": "19/06/2022, 19:12:38",
+      "ms": 1655665958000
+    },
+    "startingTime": 1341500
+  },
+  {
+    "id": "308730093",
+    "followersCount": 73,
+    "likes": 0,
+    "retweets": 95,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:39.000Z",
+      "formatted": "19/06/2022, 19:12:39",
+      "ms": 1655665959000
+    },
+    "startingTime": 1342000
+  },
+  {
+    "id": "1421247884",
+    "followersCount": 163,
+    "likes": 0,
+    "retweets": 181,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:47.000Z",
+      "formatted": "19/06/2022, 19:12:47",
+      "ms": 1655665967000
+    },
+    "startingTime": 1350000
+  },
+  {
+    "id": "360443229",
+    "followersCount": 45,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:50.000Z",
+      "formatted": "19/06/2022, 19:12:50",
+      "ms": 1655665970000
+    },
+    "startingTime": 1353000
+  },
+  {
+    "id": "1444350683373883394",
+    "followersCount": 814,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:51.000Z",
+      "formatted": "19/06/2022, 19:12:51",
+      "ms": 1655665971000
+    },
+    "startingTime": 1354000
+  },
+  {
+    "id": "1268342920534319106",
+    "followersCount": 6,
+    "likes": 0,
+    "retweets": 288,
+    "createdAt": {
+      "raw": "2022-06-19T19:12:54.000Z",
+      "formatted": "19/06/2022, 19:12:54",
+      "ms": 1655665974000
+    },
+    "startingTime": 1357000
+  },
+  {
+    "id": "324079105",
+    "followersCount": 200,
+    "likes": 0,
+    "retweets": 263,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:00.000Z",
+      "formatted": "19/06/2022, 19:13:00",
+      "ms": 1655665980000
+    },
+    "startingTime": 1363000
+  },
+  {
+    "id": "54695115",
+    "followersCount": 779,
+    "likes": 0,
+    "retweets": 264,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:07.000Z",
+      "formatted": "19/06/2022, 19:13:07",
+      "ms": 1655665987000
+    },
+    "startingTime": 1370000
+  },
+  {
+    "id": "852007106",
+    "followersCount": 1221,
+    "likes": 0,
+    "retweets": 95,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:07.000Z",
+      "formatted": "19/06/2022, 19:13:07",
+      "ms": 1655665987000
+    },
+    "startingTime": 1370500
+  },
+  {
+    "id": "19500405",
+    "followersCount": 78854,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:08.000Z",
+      "formatted": "19/06/2022, 19:13:08",
+      "ms": 1655665988000
+    },
+    "startingTime": 1371000
+  },
+  {
+    "id": "384424061",
+    "followersCount": 128,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:08.000Z",
+      "formatted": "19/06/2022, 19:13:08",
+      "ms": 1655665988000
+    },
+    "startingTime": 1371333.3333333333
+  },
+  {
+    "id": "723608486593073155",
+    "followersCount": 5338,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:08.000Z",
+      "formatted": "19/06/2022, 19:13:08",
+      "ms": 1655665988000
+    },
+    "startingTime": 1371666.6666666667
+  },
+  {
+    "id": "1004415894330728448",
+    "followersCount": 141,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:11.000Z",
+      "formatted": "19/06/2022, 19:13:11",
+      "ms": 1655665991000
+    },
+    "startingTime": 1374000
+  },
+  {
+    "id": "79943315",
+    "followersCount": 377,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:11.000Z",
+      "formatted": "19/06/2022, 19:13:11",
+      "ms": 1655665991000
+    },
+    "startingTime": 1374500
+  },
+  {
+    "id": "1266145259718955010",
+    "followersCount": 278,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:14.000Z",
+      "formatted": "19/06/2022, 19:13:14",
+      "ms": 1655665994000
+    },
+    "startingTime": 1377000
+  },
+  {
+    "id": "372494314",
+    "followersCount": 1847,
+    "likes": 0,
+    "retweets": 559,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:21.000Z",
+      "formatted": "19/06/2022, 19:13:21",
+      "ms": 1655666001000
+    },
+    "startingTime": 1384000
+  },
+  {
+    "id": "1856740418",
+    "followersCount": 51,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:26.000Z",
+      "formatted": "19/06/2022, 19:13:26",
+      "ms": 1655666006000
+    },
+    "startingTime": 1389000
+  },
+  {
+    "id": "1222088337114136576",
+    "followersCount": 57,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:28.000Z",
+      "formatted": "19/06/2022, 19:13:28",
+      "ms": 1655666008000
+    },
+    "startingTime": 1391000
+  },
+  {
+    "id": "888066840034803714",
+    "followersCount": 125,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:28.000Z",
+      "formatted": "19/06/2022, 19:13:28",
+      "ms": 1655666008000
+    },
+    "startingTime": 1391500
+  },
+  {
+    "id": "317780760",
+    "followersCount": 229,
+    "likes": 0,
+    "retweets": 559,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:33.000Z",
+      "formatted": "19/06/2022, 19:13:33",
+      "ms": 1655666013000
+    },
+    "startingTime": 1396000
+  },
+  {
+    "id": "250075408",
+    "followersCount": 97,
+    "likes": 0,
+    "retweets": 181,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:36.000Z",
+      "formatted": "19/06/2022, 19:13:36",
+      "ms": 1655666016000
+    },
+    "startingTime": 1399000
+  },
+  {
+    "id": "375376626",
+    "followersCount": 151,
+    "likes": 0,
+    "retweets": 624,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:36.000Z",
+      "formatted": "19/06/2022, 19:13:36",
+      "ms": 1655666016000
+    },
+    "startingTime": 1399500
+  },
+  {
+    "id": "141283057",
+    "followersCount": 14463,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:43.000Z",
+      "formatted": "19/06/2022, 19:13:43",
+      "ms": 1655666023000
+    },
+    "startingTime": 1406000
+  },
+  {
+    "id": "95808833",
+    "followersCount": 299,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:43.000Z",
+      "formatted": "19/06/2022, 19:13:43",
+      "ms": 1655666023000
+    },
+    "startingTime": 1406500
+  },
+  {
+    "id": "1266921827236012032",
+    "followersCount": 223,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:52.000Z",
+      "formatted": "19/06/2022, 19:13:52",
+      "ms": 1655666032000
+    },
+    "startingTime": 1415000
+  },
+  {
+    "id": "1185165431935524864",
+    "followersCount": 21,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:53.000Z",
+      "formatted": "19/06/2022, 19:13:53",
+      "ms": 1655666033000
+    },
+    "startingTime": 1416000
+  },
+  {
+    "id": "19489239",
+    "followersCount": 564230,
+    "likes": 2,
+    "retweets": 1,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:56.000Z",
+      "formatted": "19/06/2022, 19:13:56",
+      "ms": 1655666036000
+    },
+    "startingTime": 1419000
+  },
+  {
+    "id": "1538148371457884160",
+    "followersCount": 4,
+    "likes": 0,
+    "retweets": 10,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:57.000Z",
+      "formatted": "19/06/2022, 19:13:57",
+      "ms": 1655666037000
+    },
+    "startingTime": 1420000
+  },
+  {
+    "id": "1519419051075899394",
+    "followersCount": 289,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:13:59.000Z",
+      "formatted": "19/06/2022, 19:13:59",
+      "ms": 1655666039000
+    },
+    "startingTime": 1422000
+  },
+  {
+    "id": "1307548939550294017",
+    "followersCount": 2908,
+    "likes": 0,
+    "retweets": 56,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:02.000Z",
+      "formatted": "19/06/2022, 19:14:02",
+      "ms": 1655666042000
+    },
+    "startingTime": 1425000
+  },
+  {
+    "id": "3230771313",
+    "followersCount": 457,
+    "likes": 0,
+    "retweets": 14,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:04.000Z",
+      "formatted": "19/06/2022, 19:14:04",
+      "ms": 1655666044000
+    },
+    "startingTime": 1427000
+  },
+  {
+    "id": "1311415537528983552",
+    "followersCount": 87,
+    "likes": 0,
+    "retweets": 26,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:07.000Z",
+      "formatted": "19/06/2022, 19:14:07",
+      "ms": 1655666047000
+    },
+    "startingTime": 1430000
+  },
+  {
+    "id": "1327422868884426753",
+    "followersCount": 1060,
+    "likes": 0,
+    "retweets": 603,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:09.000Z",
+      "formatted": "19/06/2022, 19:14:09",
+      "ms": 1655666049000
+    },
+    "startingTime": 1432000
+  },
+  {
+    "id": "899257349935955968",
+    "followersCount": 2588,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:10.000Z",
+      "formatted": "19/06/2022, 19:14:10",
+      "ms": 1655666050000
+    },
+    "startingTime": 1433000
+  },
+  {
+    "id": "1501522587049934854",
+    "followersCount": 3,
+    "likes": 0,
+    "retweets": 126,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:13.000Z",
+      "formatted": "19/06/2022, 19:14:13",
+      "ms": 1655666053000
+    },
+    "startingTime": 1436000
+  },
+  {
+    "id": "765229409813032960",
+    "followersCount": 5,
+    "likes": 0,
+    "retweets": 63,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:14.000Z",
+      "formatted": "19/06/2022, 19:14:14",
+      "ms": 1655666054000
+    },
+    "startingTime": 1437000
+  },
+  {
+    "id": "1336351645958086656",
+    "followersCount": 654,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:23.000Z",
+      "formatted": "19/06/2022, 19:14:23",
+      "ms": 1655666063000
+    },
+    "startingTime": 1446000
+  },
+  {
+    "id": "2329770158",
+    "followersCount": 1494,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:25.000Z",
+      "formatted": "19/06/2022, 19:14:25",
+      "ms": 1655666065000
+    },
+    "startingTime": 1448000
+  },
+  {
+    "id": "825582259889590272",
+    "followersCount": 26,
+    "likes": 0,
+    "retweets": 38,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:25.000Z",
+      "formatted": "19/06/2022, 19:14:25",
+      "ms": 1655666065000
+    },
+    "startingTime": 1448500
+  },
+  {
+    "id": "2294193683",
+    "followersCount": 895,
+    "likes": 0,
+    "retweets": 21,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:34.000Z",
+      "formatted": "19/06/2022, 19:14:34",
+      "ms": 1655666074000
+    },
+    "startingTime": 1457000
+  },
+  {
+    "id": "296698466",
+    "followersCount": 36,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:37.000Z",
+      "formatted": "19/06/2022, 19:14:37",
+      "ms": 1655666077000
+    },
+    "startingTime": 1460000
+  },
+  {
+    "id": "4843629263",
+    "followersCount": 6364,
+    "likes": 0,
+    "retweets": 849,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:39.000Z",
+      "formatted": "19/06/2022, 19:14:39",
+      "ms": 1655666079000
+    },
+    "startingTime": 1462000
+  },
+  {
+    "id": "939577925975855105",
+    "followersCount": 1514,
+    "likes": 0,
+    "retweets": 785,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:40.000Z",
+      "formatted": "19/06/2022, 19:14:40",
+      "ms": 1655666080000
+    },
+    "startingTime": 1463000
+  },
+  {
+    "id": "1338111704874573826",
+    "followersCount": 647,
+    "likes": 0,
+    "retweets": 180,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:40.000Z",
+      "formatted": "19/06/2022, 19:14:40",
+      "ms": 1655666080000
+    },
+    "startingTime": 1463500
+  },
+  {
+    "id": "1144688899639402496",
+    "followersCount": 220,
+    "likes": 0,
+    "retweets": 50,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:44.000Z",
+      "formatted": "19/06/2022, 19:14:44",
+      "ms": 1655666084000
+    },
+    "startingTime": 1467000
+  },
+  {
+    "id": "897401189611995137",
+    "followersCount": 5,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:48.000Z",
+      "formatted": "19/06/2022, 19:14:48",
+      "ms": 1655666088000
+    },
+    "startingTime": 1471000
+  },
+  {
+    "id": "82340330",
+    "followersCount": 3060,
+    "likes": 0,
+    "retweets": 849,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:48.000Z",
+      "formatted": "19/06/2022, 19:14:48",
+      "ms": 1655666088000
+    },
+    "startingTime": 1471500
+  },
+  {
+    "id": "196360336",
+    "followersCount": 507,
+    "likes": 0,
+    "retweets": 2,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:49.000Z",
+      "formatted": "19/06/2022, 19:14:49",
+      "ms": 1655666089000
+    },
+    "startingTime": 1472000
+  },
+  {
+    "id": "1365629306",
+    "followersCount": 190,
+    "likes": 0,
+    "retweets": 39,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:54.000Z",
+      "formatted": "19/06/2022, 19:14:54",
+      "ms": 1655666094000
+    },
+    "startingTime": 1477000
+  },
+  {
+    "id": "1496865008814366726",
+    "followersCount": 37,
+    "likes": 0,
+    "retweets": 297,
+    "createdAt": {
+      "raw": "2022-06-19T19:14:59.000Z",
+      "formatted": "19/06/2022, 19:14:59",
+      "ms": 1655666099000
+    },
+    "startingTime": 1482000
+  },
+  {
+    "id": "1117545887155146753",
+    "followersCount": 314,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:06.000Z",
+      "formatted": "19/06/2022, 19:15:06",
+      "ms": 1655666106000
+    },
+    "startingTime": 1489000
+  },
+  {
+    "id": "1428177924553859072",
+    "followersCount": 546,
+    "likes": 0,
+    "retweets": 4,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:06.000Z",
+      "formatted": "19/06/2022, 19:15:06",
+      "ms": 1655666106000
+    },
+    "startingTime": 1489333.3333333333
+  },
+  {
+    "id": "182765446",
+    "followersCount": 453,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:06.000Z",
+      "formatted": "19/06/2022, 19:15:06",
+      "ms": 1655666106000
+    },
+    "startingTime": 1489666.6666666667
+  },
+  {
+    "id": "598973191",
+    "followersCount": 9334,
+    "likes": 0,
+    "retweets": 6,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:09.000Z",
+      "formatted": "19/06/2022, 19:15:09",
+      "ms": 1655666109000
+    },
+    "startingTime": 1492000
+  },
+  {
+    "id": "1212738891326746625",
+    "followersCount": 11,
+    "likes": 0,
+    "retweets": 7,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:18.000Z",
+      "formatted": "19/06/2022, 19:15:18",
+      "ms": 1655666118000
+    },
+    "startingTime": 1501000
+  },
+  {
+    "id": "1492151258555244545",
+    "followersCount": 752,
+    "likes": 0,
+    "retweets": 5,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:20.000Z",
+      "formatted": "19/06/2022, 19:15:20",
+      "ms": 1655666120000
+    },
+    "startingTime": 1503000
+  },
+  {
+    "id": "1499771048610385923",
+    "followersCount": 5,
+    "likes": 0,
+    "retweets": 33,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:20.000Z",
+      "formatted": "19/06/2022, 19:15:20",
+      "ms": 1655666120000
+    },
+    "startingTime": 1503500
+  },
+  {
+    "id": "780802080642433025",
+    "followersCount": 99,
+    "likes": 0,
+    "retweets": 73,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:25.000Z",
+      "formatted": "19/06/2022, 19:15:25",
+      "ms": 1655666125000
+    },
+    "startingTime": 1508000
+  },
+  {
+    "id": "1225793633342935043",
+    "followersCount": 9220,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:26.000Z",
+      "formatted": "19/06/2022, 19:15:26",
+      "ms": 1655666126000
+    },
+    "startingTime": 1509000
+  },
+  {
+    "id": "502068387",
+    "followersCount": 259,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:27.000Z",
+      "formatted": "19/06/2022, 19:15:27",
+      "ms": 1655666127000
+    },
+    "startingTime": 1510000
+  },
+  {
+    "id": "1445805349202706437",
+    "followersCount": 3228,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:31.000Z",
+      "formatted": "19/06/2022, 19:15:31",
+      "ms": 1655666131000
+    },
+    "startingTime": 1514000
+  },
+  {
+    "id": "883421593",
+    "followersCount": 6948,
+    "likes": 0,
+    "retweets": 54,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:39.000Z",
+      "formatted": "19/06/2022, 19:15:39",
+      "ms": 1655666139000
+    },
+    "startingTime": 1522000
+  },
+  {
+    "id": "48486244",
+    "followersCount": 32296,
+    "likes": 0,
+    "retweets": 95,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:40.000Z",
+      "formatted": "19/06/2022, 19:15:40",
+      "ms": 1655666140000
+    },
+    "startingTime": 1523000
+  },
+  {
+    "id": "1366719778380013569",
+    "followersCount": 128,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:43.000Z",
+      "formatted": "19/06/2022, 19:15:43",
+      "ms": 1655666143000
+    },
+    "startingTime": 1526000
+  },
+  {
+    "id": "173730909",
+    "followersCount": 28,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:45.000Z",
+      "formatted": "19/06/2022, 19:15:45",
+      "ms": 1655666145000
+    },
+    "startingTime": 1528000
+  },
+  {
+    "id": "1439015184341905410",
+    "followersCount": 28,
+    "likes": 0,
+    "retweets": 415,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:50.000Z",
+      "formatted": "19/06/2022, 19:15:50",
+      "ms": 1655666150000
+    },
+    "startingTime": 1533000
+  },
+  {
+    "id": "414208540",
+    "followersCount": 455,
+    "likes": 0,
+    "retweets": 181,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:50.000Z",
+      "formatted": "19/06/2022, 19:15:50",
+      "ms": 1655666150000
+    },
+    "startingTime": 1533500
+  },
+  {
+    "id": "1529969782434455566",
+    "followersCount": 13,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:54.000Z",
+      "formatted": "19/06/2022, 19:15:54",
+      "ms": 1655666154000
+    },
+    "startingTime": 1537000
+  },
+  {
+    "id": "2496203046",
+    "followersCount": 23,
+    "likes": 0,
+    "retweets": 130,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:54.000Z",
+      "formatted": "19/06/2022, 19:15:54",
+      "ms": 1655666154000
+    },
+    "startingTime": 1537500
+  },
+  {
+    "id": "1474621128882724867",
+    "followersCount": 2773,
+    "likes": 0,
+    "retweets": 19,
+    "createdAt": {
+      "raw": "2022-06-19T19:15:56.000Z",
+      "formatted": "19/06/2022, 19:15:56",
+      "ms": 1655666156000
+    },
+    "startingTime": 1539000
+  },
+  {
+    "id": "1263898793012916224",
+    "followersCount": 1738,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:02.000Z",
+      "formatted": "19/06/2022, 19:16:02",
+      "ms": 1655666162000
+    },
+    "startingTime": 1545000
+  },
+  {
+    "id": "37229237",
+    "followersCount": 715,
+    "likes": 0,
+    "retweets": 288,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:05.000Z",
+      "formatted": "19/06/2022, 19:16:05",
+      "ms": 1655666165000
+    },
+    "startingTime": 1548000
+  },
+  {
+    "id": "1390467125479940097",
+    "followersCount": 1,
+    "likes": 0,
+    "retweets": 32,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:10.000Z",
+      "formatted": "19/06/2022, 19:16:10",
+      "ms": 1655666170000
+    },
+    "startingTime": 1553000
+  },
+  {
+    "id": "1518719403394691073",
+    "followersCount": 94,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:12.000Z",
+      "formatted": "19/06/2022, 19:16:12",
+      "ms": 1655666172000
+    },
+    "startingTime": 1555000
+  },
+  {
+    "id": "1493826106654437377",
+    "followersCount": 24,
+    "likes": 0,
+    "retweets": 78,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:15.000Z",
+      "formatted": "19/06/2022, 19:16:15",
+      "ms": 1655666175000
+    },
+    "startingTime": 1558000
+  },
+  {
+    "id": "1731665011",
+    "followersCount": 2733,
+    "likes": 0,
+    "retweets": 6,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:20.000Z",
+      "formatted": "19/06/2022, 19:16:20",
+      "ms": 1655666180000
+    },
+    "startingTime": 1563000
+  },
+  {
+    "id": "912428236273016833",
+    "followersCount": 309,
+    "likes": 0,
+    "retweets": 1008,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:20.000Z",
+      "formatted": "19/06/2022, 19:16:20",
+      "ms": 1655666180000
+    },
+    "startingTime": 1563500
+  },
+  {
+    "id": "1460377075882373121",
+    "followersCount": 38354,
+    "likes": 1,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:24.000Z",
+      "formatted": "19/06/2022, 19:16:24",
+      "ms": 1655666184000
+    },
+    "startingTime": 1567000
+  },
+  {
+    "id": "92580074",
+    "followersCount": 83,
+    "likes": 0,
+    "retweets": 24,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:24.000Z",
+      "formatted": "19/06/2022, 19:16:24",
+      "ms": 1655666184000
+    },
+    "startingTime": 1567500
+  },
+  {
+    "id": "595222060",
+    "followersCount": 16,
+    "likes": 0,
+    "retweets": 24,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:27.000Z",
+      "formatted": "19/06/2022, 19:16:27",
+      "ms": 1655666187000
+    },
+    "startingTime": 1570000
+  },
+  {
+    "id": "1045124724005597184",
+    "followersCount": 330,
+    "likes": 0,
+    "retweets": 6,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:32.000Z",
+      "formatted": "19/06/2022, 19:16:32",
+      "ms": 1655666192000
+    },
+    "startingTime": 1575000
+  },
+  {
+    "id": "2505382854",
+    "followersCount": 208,
+    "likes": 0,
+    "retweets": 10,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:32.000Z",
+      "formatted": "19/06/2022, 19:16:32",
+      "ms": 1655666192000
+    },
+    "startingTime": 1575500
+  },
+  {
+    "id": "49610232",
+    "followersCount": 178,
+    "likes": 0,
+    "retweets": 603,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:34.000Z",
+      "formatted": "19/06/2022, 19:16:34",
+      "ms": 1655666194000
+    },
+    "startingTime": 1577000
+  },
+  {
+    "id": "87946564",
+    "followersCount": 984,
+    "likes": 0,
+    "retweets": 849,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:35.000Z",
+      "formatted": "19/06/2022, 19:16:35",
+      "ms": 1655666195000
+    },
+    "startingTime": 1578000
+  },
+  {
+    "id": "754913164827959300",
+    "followersCount": 5400,
+    "likes": 0,
+    "retweets": 15,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:35.000Z",
+      "formatted": "19/06/2022, 19:16:35",
+      "ms": 1655666195000
+    },
+    "startingTime": 1578333.3333333333
+  },
+  {
+    "id": "1017472428371533826",
+    "followersCount": 19,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:35.000Z",
+      "formatted": "19/06/2022, 19:16:35",
+      "ms": 1655666195000
+    },
+    "startingTime": 1578666.6666666667
+  },
+  {
+    "id": "940932764907573255",
+    "followersCount": 223,
+    "likes": 0,
+    "retweets": 33,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:38.000Z",
+      "formatted": "19/06/2022, 19:16:38",
+      "ms": 1655666198000
+    },
+    "startingTime": 1581000
+  },
+  {
+    "id": "1726096375",
+    "followersCount": 1903,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:44.000Z",
+      "formatted": "19/06/2022, 19:16:44",
+      "ms": 1655666204000
+    },
+    "startingTime": 1587000
+  },
+  {
+    "id": "1202276791",
+    "followersCount": 939,
+    "likes": 0,
+    "retweets": 898,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:44.000Z",
+      "formatted": "19/06/2022, 19:16:44",
+      "ms": 1655666204000
+    },
+    "startingTime": 1587500
+  },
+  {
+    "id": "830675603435163648",
+    "followersCount": 190,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:48.000Z",
+      "formatted": "19/06/2022, 19:16:48",
+      "ms": 1655666208000
+    },
+    "startingTime": 1591000
+  },
+  {
+    "id": "192547775",
+    "followersCount": 275668,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:51.000Z",
+      "formatted": "19/06/2022, 19:16:51",
+      "ms": 1655666211000
+    },
+    "startingTime": 1594000
+  },
+  {
+    "id": "1276776108466241538",
+    "followersCount": 48,
+    "likes": 0,
+    "retweets": 35,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:51.000Z",
+      "formatted": "19/06/2022, 19:16:51",
+      "ms": 1655666211000
+    },
+    "startingTime": 1594500
+  },
+  {
+    "id": "1353405114497699841",
+    "followersCount": 260,
+    "likes": 0,
+    "retweets": 422,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:52.000Z",
+      "formatted": "19/06/2022, 19:16:52",
+      "ms": 1655666212000
+    },
+    "startingTime": 1595000
+  },
+  {
+    "id": "1378552322",
+    "followersCount": 864,
+    "likes": 0,
+    "retweets": 1,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:57.000Z",
+      "formatted": "19/06/2022, 19:16:57",
+      "ms": 1655666217000
+    },
+    "startingTime": 1600000
+  },
+  {
+    "id": "1481245479266660352",
+    "followersCount": 352,
+    "likes": 0,
+    "retweets": 0,
+    "createdAt": {
+      "raw": "2022-06-19T19:16:59.000Z",
+      "formatted": "19/06/2022, 19:16:59",
+      "ms": 1655666219000
+    },
+    "startingTime": 1602000
+  }
+]

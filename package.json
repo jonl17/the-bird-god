@@ -1,0 +1,22 @@
+{
+  "name": "bird",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@types/node": "^17.0.35",
+    "dotenv": "^16.0.1",
+    "easymidi": "^2.1.0",
+    "fastify": "^3.29.0",
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.2.4",
+    "prompt": "^1.3.0",
+    "typescript": "^4.7.2"
+  },
+  "scripts": {
+    "server": "node src/server.js",
+    "collect": "node src/service/collectTweets.js",
+    "play": "node src/midi/midi.js"
+  }
+}

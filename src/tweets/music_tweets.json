@@ -1,0 +1,244 @@
+{
+  "data": [
+    {
+      "created_at": "2022-06-18T13:01:29.000Z",
+      "public_metrics": {
+        "retweet_count": 11,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "RT @NatalieObi: https://t.co/v5x3sJf76M",
+      "id": "1538144872066076680",
+      "author_id": "1094271538529005571"
+    },
+    {
+      "created_at": "2022-06-18T13:01:29.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "class https://t.co/IlAN5C1yak",
+      "id": "1538144871894028289",
+      "author_id": "2544921558"
+    },
+    {
+      "created_at": "2022-06-18T13:01:29.000Z",
+      "public_metrics": {
+        "retweet_count": 74,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "RT @b0uncity: The way both of them raised their heads at the same time when they heard the music\n\n#BeautyHallxZeeNunew https://t.co/mIZ90Mt…",
+      "id": "1538144871764066307",
+      "author_id": "1452172466915364865"
+    },
+    {
+      "created_at": "2022-06-18T13:01:29.000Z",
+      "public_metrics": {
+        "retweet_count": 1,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "RT @BlalockWrites: @Amy_bundle https://t.co/GZDKt7yZgE",
+      "id": "1538144871634051072",
+      "author_id": "1221884908999716865"
+    },
+    {
+      "created_at": "2022-06-18T13:01:29.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "Nah cause care package (even tho they just old songs) and DLDT was actually good. Plus there’s so much horrible music out there as well. https://t.co/90xNkAHVSf",
+      "id": "1538144871504134149",
+      "author_id": "3254965233"
+    },
+    {
+      "created_at": "2022-06-18T13:01:29.000Z",
+      "public_metrics": {
+        "retweet_count": 321,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "RT @sakpo0007_: FC, today is weekend. Get on your Apple Music, Spotify or YouTube and put “Call Me Every Day” on heavy rotation all day tod…",
+      "id": "1538144871332061185",
+      "author_id": "700951918"
+    },
+    {
+      "created_at": "2022-06-18T13:01:29.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "다은웅니에게...\nhttps://t.co/X8M5wCYKfn",
+      "id": "1538144871227457537",
+      "author_id": "1509881483171106816"
+    },
+    {
+      "created_at": "2022-06-18T13:01:29.000Z",
+      "public_metrics": {
+        "retweet_count": 2,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "RT @taji_taji_kun: Perfume Genius『Ugly Season』聴いてるとエクスペリメンタルでポップなアーティストの作品の記憶が次々と蘇る。Prince 、Björk、David Bowie等、聴けば聴くほどいろいろ思い出す。しかし、パクリという感じ…",
+      "id": "1538144871147765762",
+      "author_id": "88653483"
+    },
+    {
+      "created_at": "2022-06-18T13:01:29.000Z",
+      "public_metrics": {
+        "retweet_count": 0,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "新しい記事を追加しました✨\n\n【歌枠】第８６回！わためぇ Night Fever!!【角巻わため/ホロライブ４期生】\n\n#角巻わため\nhttps://t.co/Be0yXmoO1b",
+      "id": "1538144870954545153",
+      "author_id": "1478893971137249280"
+    },
+    {
+      "created_at": "2022-06-18T13:01:29.000Z",
+      "public_metrics": {
+        "retweet_count": 186,
+        "reply_count": 0,
+        "like_count": 0,
+        "quote_count": 0
+      },
+      "text": "RT @TheSwiftSociety: 💬| Lola Tung on having @TaylorSwift13's music on #TheSummerITurnedPretty\n\n\"Was a complete surprise to all in the cast,…",
+      "id": "1538144870770311168",
+      "author_id": "1145708836633710592"
+    }
+  ],
+  "includes": {
+    "users": [
+      {
+        "id": "1094271538529005571",
+        "username": "Raceupkenneth",
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 608,
+          "tweet_count": 12255,
+          "listed_count": 1
+        },
+        "name": "Home Law Jr🦁"
+      },
+      {
+        "id": "2544921558",
+        "username": "7ven_zw_org",
+        "public_metrics": {
+          "followers_count": 19095,
+          "following_count": 17286,
+          "tweet_count": 41932,
+          "listed_count": 0
+        },
+        "name": "7ven"
+      },
+      {
+        "id": "1452172466915364865",
+        "username": "FDCuYcTlondBFW1",
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 47,
+          "tweet_count": 5222,
+          "listed_count": 0
+        },
+        "name": "ZonZon ZeeNuNew"
+      },
+      {
+        "id": "1221884908999716865",
+        "username": "Amy_bundle",
+        "public_metrics": {
+          "followers_count": 10060,
+          "following_count": 5511,
+          "tweet_count": 99721,
+          "listed_count": 12
+        },
+        "name": "𝐀𝐦𝐚𝐫𝐚𝐜𝐡𝐢💕"
+      },
+      {
+        "id": "3254965233",
+        "username": "Traumatyzed_",
+        "public_metrics": {
+          "followers_count": 848,
+          "following_count": 648,
+          "tweet_count": 28154,
+          "listed_count": 3
+        },
+        "name": "Dylan"
+      },
+      {
+        "id": "700951918",
+        "username": "Aniejayz",
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 863,
+          "tweet_count": 108992,
+          "listed_count": 3
+        },
+        "name": "W....E....A....L....T....H💙"
+      },
+      {
+        "id": "1509881483171106816",
+        "username": "myong46z",
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 24,
+          "tweet_count": 41,
+          "listed_count": 0
+        },
+        "name": "Mmm..."
+      },
+      {
+        "id": "88653483",
+        "username": "THESTONERECORDS",
+        "public_metrics": {
+          "followers_count": 1890,
+          "following_count": 36,
+          "tweet_count": 12086,
+          "listed_count": 80
+        },
+        "name": "THE STONE RECORDS"
+      },
+      {
+        "id": "1478893971137249280",
+        "username": "holomusicmatome",
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 2332,
+          "tweet_count": 1415,
+          "listed_count": 1
+        },
+        "name": "ホロライブ音楽まとめ"
+      },
+      {
+        "id": "1145708836633710592",
+        "username": "AyushiT69158691",
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 615,
+          "tweet_count": 170507,
+          "listed_count": 5
+        },
+        "name": "Ayushi Tyagi"
+      }
+    ]
+  },
+  "meta": {
+    "newest_id": "1538144872066076680",
+    "oldest_id": "1538144870770311168",
+    "result_count": 10,
+    "next_token": "b26v89c19zqg8o3fpyznxldn35dzbdof2qaoz8eh1m8al"
+  }
+}
