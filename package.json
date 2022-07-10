@@ -17,6 +17,7 @@
   "scripts": {
     "server": "node src/server.js",
     "collect": "node src/service/collectTweets.js",
-    "play": "node src/midi/midi.js"
+    "play": "node src/midi/midi.js",
+    "close": "node src/midi/close.js"
   }
 }

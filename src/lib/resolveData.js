@@ -72,6 +72,8 @@ const resolveData = (result) => {
         ms: new Date(tweet.created_at).getTime(),
       },
       startingTime,
+      textLength: tweet.text.length,
+      ...tweet,
     }
   })
 

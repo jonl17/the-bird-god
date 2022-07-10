@@ -1,5 +1,5 @@
 import fs from 'fs'
-const path = 'src/tweets/'
+const path = 'src/new-tweets/'
 fs.readdir(path, (err, files) => {
   if (err) {
     console.log(err)

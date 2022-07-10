@@ -1,78 +1,105 @@
-import easymidi from 'easymidi';
-import fetch from 'node-fetch';
-import prompt from 'prompt';
+import easymidi from 'easymidi'
+import fetch from 'node-fetch'
+import prompt from 'prompt'
+import { bass, tenor, sopran, voice4 } from '../instruments.js'
 
-const newOutput = new easymidi.Output('MIDI Output Bird-God', true);
-const newInput = new easymidi.Input('MIDI Input Bird-God', true);
+const midiOutput = new easymidi.Output('MIDI Output Bird-God', true)
 
-const allOutputs = easymidi.getOutputs();
-
-const MIDI_CLOCK_PER_QUARTER_NOTE = 24; // From MIDI specification:
-const MASTER_TEMPO = 40; // BPM = number of quarter notes per minute
-
-const CHANNELS = [0, 1, 2];
-const playNote = (sustain = 100, note = 70, velocity = 50) => {
-  const channel = randomChannel(CHANNELS);
-  newOutput.send('noteon', { note, velocity, channel });
+const playNote = ({ sustain, note, velocity, channel }) => {
+  midiOutput.send('noteon', { note, velocity, channel })
+  console.log(sustain, note, velocity, channel)
   setTimeout(() => {
-    newOutput.send('noteoff', { note, velocity: 0, channel });
-  }, sustain);
-};
+    midiOutput.send('noteoff', { note, velocity, channel })
+  }, sustain)
+}
 
-let idx = 1;
-const START = 2000;
+let idx = 1
+const START = 2000
 
 const randomChannel = (channels = []) => {
-  return channels[Math.floor(Math.random() * channels.length)];
-};
+  return channels[Math.floor(Math.random() * channels.length)]
+}
 
-const findFrequency = () => {
-  const max = 108;
-  const min = 21;
-  const randomInRange = Math.random() * (max - min) + min;
-  return randomInRange;
-};
+const findRandomInRange = (range) => {
+  const max = range.high
+  const min = range.low
+  return Math.random() * (max - min) + min
+}
 
 const findVelocity = (number) => {
-  const max = 127;
-  const RETWEET_CAP = 10000;
-  const range = number / RETWEET_CAP;
-  return range * max;
-};
+  const maxVel = 127
+  const FOLLOWER_MAX = 50000
+  const range = number / FOLLOWER_MAX
+  const velocity = range * maxVel
+  const minVel = 25
+  return velocity > minVel ? velocity : minVel
+}
 
-const findSustain = (number) => {
-  const max = 5000;
-  const min = 50;
-  const randomInRange = Math.random() * (max - min) + min;
-  return randomInRange;
-};
+const findSustain = (number, min, max) => {
+  const range = number / max
+  return 5000 * range
+}
 
-const startNote = (sustain, note, timing, velocity) => {
+// midi channels that are in use in audio workstation program
+const CHANNELS = [0, 1, 2, 3]
+
+const startNote = (tweet, endtime) => {
+  const timing = tweet.startingTime
+  const sustain = findSustain(tweet.textLength, 5, 280)
+  const velocity = findVelocity(tweet.followersCount)
+  const channel = randomChannel(CHANNELS)
+
+  // channels determine the instrument
   setTimeout(() => {
-    playNote(sustain, note, velocity);
-  }, timing);
-};
+    if (channel === 0) {
+      // bass instrument
+      const note = findRandomInRange(bass.range)
+      playNote({ sustain, note, velocity, channel })
+    } else if (channel === 1) {
+      // tenor instrument
+      const note = findRandomInRange(tenor.range)
+      playNote({ sustain, note, velocity, channel })
+    } else if (channel === 2) {
+      // sopran instrument
+      const note = findRandomInRange(sopran.range)
+      playNote({ sustain, note, velocity, channel })
+    } else if (channel === 3) {
+      const note = findRandomInRange(voice4.range)
+      playNote({ sustain, note, velocity, channel })
+    }
+
+    if (timing === endtime) {
+      midiOutput.close()
+    }
+  }, timing)
+}
 
 const start = async () => {
-  prompt.start();
+  prompt.start()
 
   prompt.get(['keyword'], (err, result) => {
     if (result.keyword) {
-      play(result.keyword);
+      try {
+        play(result.keyword)
+      } catch (error) {
+        throw new Error(error)
+      }
     }
-  });
+  })
 
   const play = async (keyword) => {
     const response = await fetch(
       `http://localhost:3333/all-tweets/${keyword}_tweets.json`
-    );
-    const tweets = await response.json();
+    )
+    const tweets = await response.json()
 
     if (tweets.length) {
-      const startDate = tweets[0].createdAt.formatted;
-      const endDate = tweets[tweets.length - 1].createdAt.formatted;
+      const startDate = tweets[0].createdAt.formatted
+      const endDate = tweets[tweets.length - 1].createdAt.formatted
+      const endtime = tweets[tweets.length - 1].startingTime
 
       console.log(
+        '\n',
         'Playing piece:',
         keyword,
         '\n',
@@ -82,18 +109,16 @@ const start = async () => {
         'to:',
         endDate,
         'number of tweets:',
-        tweets.length
-      );
-      tweets.forEach((tweet) => {
-        startNote(
-          findSustain(),
-          findFrequency(),
-          tweet.startingTime,
-          findVelocity(tweet.retweets)
-        );
-      });
-    }
-  };
-};
+        tweets.length,
+        '\n',
+        'Total playing time approx:',
+        Math.ceil(endtime / 60000),
+        'min.'
+      )
 
-start();
+      tweets.forEach((tweet) => startNote(tweet, endtime))
+    }
+  }
+}
+
+start()

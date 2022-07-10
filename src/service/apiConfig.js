@@ -19,7 +19,7 @@ const searchTweetUrl = (keyword, options = { maxResults: 10 }) => {
 
   const base = `${baseUrl}?query=${
     hastag ?? keyword
-  }&max_results=${maxResults}&expansions=author_id&tweet.fields=created_at,public_metrics&user.fields=public_metrics`
+  }&max_results=${maxResults}&expansions=author_id&tweet.fields=created_at,context_annotations,public_metrics&user.fields=public_metrics`
 
   if (start && end) {
     return `${base}&start_time=${start}&end_time=${end}`

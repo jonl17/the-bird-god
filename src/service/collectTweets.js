@@ -41,7 +41,7 @@ const collectTweets = async (keyword, maxResults) => {
     'Max results: ',
     maxResults
   )
-  const storagePath = `src/tweets/${cleanKeyword(keyword)}_tweets.json`
+  const storagePath = `src/new-tweets/${cleanKeyword(keyword)}_tweets.json`
 
   const headers = createHeaders(auth())
 

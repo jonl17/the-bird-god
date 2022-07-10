@@ -8,7 +8,7 @@ const fastify = Fastify({
   logger: true,
 })
 
-const path = 'src/tweets/'
+const path = 'src/new-tweets/'
 
 fastify.get('/all-tweets', async (reqeust, reply) => {
   await fs.readdir(path, (err, files) => {
