@@ -1,7 +1,7 @@
 import easymidi from 'easymidi'
 import fetch from 'node-fetch'
 import prompt from 'prompt'
-import { bass, tenor, sopran, voice4 } from '../instruments.js'
+import { voice1, voice2, voice3, voice4 } from '../instruments.js'
 
 const midiOutput = new easymidi.Output('MIDI Output Bird-God', true)
 
@@ -28,10 +28,10 @@ const findRandomInRange = (range) => {
 
 const findVelocity = (number) => {
   const maxVel = 127
-  const FOLLOWER_MAX = 50000
+  const FOLLOWER_MAX = 30000
   const range = number / FOLLOWER_MAX
   const velocity = range * maxVel
-  const minVel = 25
+  const minVel = 10
   return velocity > minVel ? velocity : minVel
 }
 
@@ -53,15 +53,15 @@ const startNote = (tweet, endtime) => {
   setTimeout(() => {
     if (channel === 0) {
       // bass instrument
-      const note = findRandomInRange(bass.range)
+      const note = findRandomInRange(voice1.range)
       playNote({ sustain, note, velocity, channel })
     } else if (channel === 1) {
       // tenor instrument
-      const note = findRandomInRange(tenor.range)
+      const note = findRandomInRange(voice2.range)
       playNote({ sustain, note, velocity, channel })
     } else if (channel === 2) {
       // sopran instrument
-      const note = findRandomInRange(sopran.range)
+      const note = findRandomInRange(voice3.range)
       playNote({ sustain, note, velocity, channel })
     } else if (channel === 3) {
       const note = findRandomInRange(voice4.range)
